@@ -1,0 +1,180 @@
+Scenario - Timing Task
+Logfile written - 03/04/2019 18:51:48
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+9999	1	Picture	Instruction	333	0	1	10330	1	0	next	other	0
+9999	1	Response	1	5538	5205	0
+9999	2	Picture	Break	10663	0	1	4665	1	0	next	other	0
+9999	2	Response	1	15298	4635	0
+9999	3	Picture	ITI	15328	0	1	10163	1	0	next	other	0
+9999	4	Picture	Instruction	25491	0	1	19993	1	0	next	other	0
+9999	4	Response	1	40337	14846	0
+9999	5	Picture	ITI	45484	0	1	33322	1	0	next	other	0
+9999	6	Sound	Practice	63733	0	408			0		other	0
+9999	6	Picture	response	78806	15073	1	15495	1	15000	25000	hit	12
+9999	6	Port Input	2	94167	30434	1
+9999	6	Response	4	94167	30434	1
+9999	6A	Port Input	2	98009	3841	1
+9999	7	Picture	ITI	104297	0	1	27324	1	0	next	other	0
+9999	8	Sound	Practice	116478	0	1			0		other	0
+9999	8	Picture	response	131621	15142	1	17994	1	15000	25000	hit	18
+9999	8	Port Input	2	149466	32987	1
+9999	8	Response	4	149466	32987	1
+9999	9	Picture	ITI	159611	0	1	20493	1	0	next	other	0
+9999	10	Sound	Practice	169922	0	1			0		other	0
+9999	10	Picture	response	180104	10181	1	25158	1	10000	25000	miss	0
+9999	10A	Port Input	1	207867	2439	1
+9999	11	Picture	ITI	215592	0	1	30489	1	0	next	other	0
+9999	12	Sound	Practice	231053	0	1			0		other	0
+9999	12	Picture	response	246081	15028	1	2333	1	15000	25000	incorrect	27
+9999	12	Port Input	1	248203	17150	1
+9999	12	Response	3	248203	17150	1
+9999	13	Picture	ITI	258243	0	1	21659	1	0	next	other	0
+9999	14	Sound	Practice	269785	0	1			0		other	0
+9999	14	Picture	response	279903	10118	1	18494	1	10000	25000	hit	32
+9999	14	Port Input	1	298296	28511	1
+9999	14	Response	3	298296	28511	1
+9999	15	Picture	ITI	308393	0	1	21992	1	0	next	other	0
+9999	16	Sound	Practice	320264	0	1			0		other	0
+9999	16	Picture	response	330385	10121	1	24658	1	10000	25000	incorrect	37
+9999	16	Port Input	2	354864	34600	1
+9999	16	Response	4	354864	34600	1
+9999	17	Picture	ITI	365040	0	1	29323	1	0	next	other	0
+9999	18	Sound	Practice	379261	0	1			0		other	0
+9999	18	Picture	response	394363	15102	1	25158	1	15000	25000	miss	0
+9999	19	Picture	ITI	429850	0	1	31156	1	0	next	other	0
+9999	20	Sound	Practice	445912	0	1			0		other	0
+9999	20	Picture	response	461006	15094	1	9997	1	15000	25000	hit	45
+9999	20	Port Input	2	470897	24985	1
+9999	20	Response	4	470897	24985	1
+9999	21	Picture	ITI	480999	0	1	24991	1	0	next	other	0
+9999	22	Sound	Practice	495921	0	1			0		other	0
+9999	22	Picture	response	505991	10070	1	17494	1	10000	25000	hit	50
+9999	22	Port Input	1	523426	27505	1
+9999	22	Response	3	523426	27505	1
+9999	23	Picture	ITI	533481	0	1	31489	1	0	next	other	0
+9999	24	Sound	Practice	549922	0	1			0		other	0
+9999	24	Picture	response	564970	15048	1	9997	1	15000	25000	hit	55
+9999	24	Port Input	2	574882	24959	1
+9999	24	Response	4	574882	24959	1
+9999	25	Picture	ITI	584963	0	1	34321	1	0	next	other	0
+9999	26	Sound	Practice	604095	0	1			0		other	0
+9999	26	Picture	response	619285	15190	1	11329	1	15000	25000	hit	60
+9999	26	Port Input	2	630503	26409	1
+9999	26	Response	4	630503	26409	1
+9999	27	Picture	ITI	640610	0	1	32822	1	0	next	other	0
+9999	28	Sound	Practice	658322	0	1			0		other	0
+9999	28	Port Input	2	670194	11872	1
+9999	28	Picture	response	673432	15111	1	4665	1	15000	25000	hit	66
+9999	28	Port Input	2	677920	19598	1
+9999	28	Response	4	677920	19598	1
+9999	29	Picture	ITI	688094	0	1	27990	1	0	next	other	0
+9999	30	Sound	Practice	700975	0	1			0		other	0
+9999	30	Picture	response	716084	15109	1	9997	1	15000	25000	hit	71
+9999	30	Port Input	2	725909	24934	1
+9999	30	Response	4	725909	24934	1
+9999	31	Picture	ITI	736077	0	1	24325	1	0	next	other	0
+9999	32	Sound	Practice	750229	0	1			0		other	0
+9999	32	Picture	response	760402	10173	1	11829	1	10000	25000	hit	76
+9999	32	Port Input	1	772107	21879	1
+9999	32	Response	3	772107	21879	1
+9999	33	Picture	ITI	782228	0	1	23492	1	0	next	other	0
+9999	34	Sound	Practice	795539	0	1			0		other	0
+9999	34	Picture	response	805720	10180	1	10496	1	10000	25000	hit	81
+9999	34	Port Input	1	816046	20507	1
+9999	34	Response	3	816046	20507	1
+9999	35	Picture	ITI	826213	0	1	28823	1	0	next	other	0
+9999	36	Sound	Practice	839874	0	1			0		other	0
+9999	36	Picture	response	855036	15162	1	6331	1	15000	25000	hit	86
+9999	36	Port Input	2	861308	21434	1
+9999	36	Response	4	861308	21434	1
+9999	37	Picture	ITI	871364	0	1	28157	1	0	next	other	0
+9999	38	Sound	Practice	884485	0	1			0		other	0
+9999	38	Picture	response	899520	15035	1	6331	1	15000	25000	hit	91
+9999	38	Port Input	2	905705	21220	1
+9999	38	Response	4	905705	21220	1
+9999	39	Picture	ITI	915848	0	1	25991	1	0	next	other	0
+9999	40	Sound	Practice	931660	0	1			0		other	0
+9999	40	Picture	response	941839	10180	1	15161	1	10000	25000	hit	96
+9999	40	Port Input	1	956818	25158	1
+9999	40	Response	3	956818	25158	1
+9999	41	Picture	ITI	966997	0	1	21159	1	0	next	other	0
+9999	42	Sound	Practice	978128	0	1			0		other	0
+9999	42	Picture	response	988156	10028	1	12496	1	10000	25000	hit	101
+9999	42	Port Input	1	1000559	22430	1
+9999	42	Response	3	1000559	22430	1
+9999	43	Picture	ITI	1010648	0	1	23325	1	0	next	other	0
+9999	44	Sound	Practice	1023910	0	1			0		other	0
+9999	44	Picture	response	1033974	10064	1	11829	1	10000	25000	hit	106
+9999	44	Port Input	1	1045695	21785	1
+9999	44	Response	3	1045695	21785	1
+9999	45	Picture	ITI	1055799	0	1	28657	1	0	next	other	0
+9999	46	Sound	Practice	1074331	0	1			0		other	0
+9999	46	Picture	response	1084456	10125	1	12496	1	10000	25000	hit	111
+9999	46	Port Input	1	1096870	22539	1
+9999	46	Response	3	1096870	22539	1
+9999	47	Picture	ITI	1106948	0	1	21826	1	0	next	other	0
+9999	48	Sound	Practice	1118610	0	1			0		other	0
+9999	48	Picture	response	1128774	10164	1	10996	1	10000	25000	hit	116
+9999	48	Port Input	1	1139570	20961	1
+9999	48	Response	3	1139570	20961	1
+9999	49	Picture	ITI	1149600	0	1	29990	1	0	next	other	0
+9999	50	Sound	Practice	1164422	0	1			0		other	0
+9999	50	Picture	response	1179590	15168	1	7831	1	15000	25000	hit	121
+9999	50	Port Input	2	1187372	22950	1
+9999	50	Response	4	1187372	22950	1
+9999	51	Picture	ITI	1197417	0	1	30656	1	0	next	other	0
+9999	52	Sound	Practice	1212928	0	1			0		other	0
+9999	52	Picture	response	1228073	15144	1	10996	1	15000	25000	hit	126
+9999	52	Port Input	2	1238922	25994	1
+9999	52	Response	4	1238922	25994	1
+9999	53	Picture	ITI	1249066	0	1	31156	1	0	next	other	0
+9999	54	Sound	Practice	1265097	0	1			0		other	0
+9999	54	Picture	response	1280221	15124	1	11163	1	15000	25000	hit	131
+9999	54	Port Input	2	1291253	26156	1
+9999	54	Response	4	1291253	26156	1
+9999	55	Picture	Break	1301381	0	1	61479	1	0	next	other	0
+9999	55	Response	1	1362633	61252	0
+9999	56	Picture	Instruction	1362859	0	1	20493	1	0	next	other	0
+9999	56	Response	1	1383272	20413	0
+9999	57	Picture	ITI	1383352	0	1	15161	1	0	next	other	0
+9999	58	Picture	ITI	1398514	0	1	26657	1	0	next	other	0
+9999	59	Sound	test	1411915	0	1			0		other	0
+9999	59	Picture	response	1425171	13256	1	13829	1	13100	25000	incorrect	141
+9999	59	Port Input	2	1438948	27033	1
+9999	59	Response	4	1438948	27033	1
+9999	60	Picture	ITI	1439999	0	1	25158	1	0	next	other	0
+9999	61	Sound	test	1453580	0	1			0		other	0
+9999	61	Picture	response	1465157	11577	1	4332	1	11450	25000	incorrect	146
+9999	61	Port Input	1	1469372	15792	1
+9999	61	Response	3	1469372	15792	1
+9999	62	Picture	ITI	1470322	0	1	28157	1	0	next	other	0
+9999	63	Sound	test	1485233	0	1			0		other	0
+9999	63	Picture	response	1498479	13246	1	13329	1	13100	25000	incorrect	151
+9999	63	Port Input	2	1511676	26443	1
+9999	63	Response	4	1511676	26443	1
+9999	64	Picture	ITI	1512641	0	1	25491	1	0	next	other	0
+9999	65	Sound	test	1525802	0	1			0		other	0
+9999	65	Picture	response	1538132	12330	1	5165	1	12250	25000	incorrect	156
+9999	65	Port Input	1	1543235	17433	1
+9999	65	Response	3	1543235	17433	1
+9999	66	Picture	ITI	1544296	0	1	27157	1	0	next	other	0
+9999	67	Sound	test	1556288	0	1			0		other	0
+9999	67	Picture	response	1571454	15166	1	30029	1	15000	25000	miss	0
+9999	67	Quit		1595589	39301	NA
+
+
+{
+   "app": "Presentation Version 20.2 Build 07.25.18",
+   "device": "LENOVO 10A8S1PC00",
+   "experiment": "{772213B2-5F0F-4A35-9C2F-36954700C7EA}",
+   "os": "Windows 7 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "Timing Task with Dynanometer.sce",
+   "subject": "9999",
+   "timestamp": "2019/03/04 10:49:05 GMT"
+}

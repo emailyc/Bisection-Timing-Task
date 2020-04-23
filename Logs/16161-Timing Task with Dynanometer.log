@@ -1,0 +1,190 @@
+Scenario - Timing Task
+Logfile written - 03/06/2019 12:44:25
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+16161	1	Picture	Instruction	500	0	1	30823	1	0	next	other	0
+16161	1	Response	1	26137	25637	0
+16161	2	Picture	ITI	31322	0	1	10663	1	0	next	other	0
+16161	3	Sound	Stimuli	41338	0	608			0		other	0
+16161	4	Picture	Feedback	71808	0	1	20160	1	0	next	other	0
+16161	5	Picture	ITI	91968	0	1	10163	1	0	next	other	0
+16161	6	Sound	Stimuli	101969	0	1			0		other	0
+16161	7	Picture	Feedback	136952	0	1	20160	1	0	next	other	0
+16161	8	Picture	ITI	157112	0	1	10163	1	0	next	other	0
+16161	9	Sound	Stimuli	167113	0	1			0		other	0
+16161	10	Picture	Feedback	197265	0	1	20160	1	0	next	other	0
+16161	11	Picture	ITI	217424	0	1	10163	1	0	next	other	0
+16161	12	Sound	Stimuli	227425	0	1			0		other	0
+16161	13	Picture	Feedback	262575	0	1	20160	1	0	next	other	0
+16161	14	Picture	ITI	282735	0	1	10163	1	0	next	other	0
+16161	15	Sound	Stimuli	292736	0	1			0		other	0
+16161	16	Picture	Feedback	322888	0	1	20160	1	0	next	other	0
+16161	17	Picture	ITI	343047	0	1	10163	1	0	next	other	0
+16161	18	Sound	Stimuli	353048	0	1			0		other	0
+16161	19	Picture	Feedback	388198	0	1	20160	1	0	next	other	0
+16161	20	Picture	ITI	408358	0	1	10163	1	0	next	other	0
+16161	21	Sound	Stimuli	418359	0	1			0		other	0
+16161	22	Picture	Feedback	448344	0	1	20160	1	0	next	other	0
+16161	23	Picture	ITI	468504	0	1	10163	1	0	next	other	0
+16161	24	Sound	Stimuli	478505	0	1			0		other	0
+16161	25	Picture	Feedback	513655	0	1	20160	1	0	next	other	0
+16161	26	Picture	ITI	533814	0	1	10163	1	0	next	other	0
+16161	27	Sound	Stimuli	543816	0	1			0		other	0
+16161	28	Picture	Feedback	573967	0	1	20160	1	0	next	other	0
+16161	29	Picture	ITI	594127	0	1	10163	1	0	next	other	0
+16161	30	Sound	Stimuli	604128	0	1			0		other	0
+16161	31	Picture	Feedback	639278	0	1	20326	1	0	next	other	0
+16161	32	Picture	End_Block	659604	0	1	92301	1	0	next	other	0
+16161	32	Response	1	751723	92119	0
+16161	33	Picture	ITI	751905	0	1	10163	1	0	next	other	0
+16161	34	Picture	Break	762068	0	1	11329	1	0	next	other	0
+16161	34	Response	1	773243	11175	0
+16161	35	Picture	ITI	773398	0	1	10163	1	0	next	other	0
+16161	35	Response	1	775803	2405	0
+16161	36	Picture	Instruction	783561	0	1	24991	1	0	next	other	0
+16161	36	Response	1	803482	19922	0
+16161	37	Picture	ITI	808552	0	1	27990	1	0	next	other	0
+16161	37	Response	1	809802	1250	0
+16161	38	Sound	Practice	821513	0	1			0		other	0
+16161	38	Picture	response	836542	15029	1	10830	1	15000	25000	hit	47
+16161	38	Port Input	2	847209	25696	1
+16161	38	Response	4	847209	25696	1
+16161	39	Picture	ITI	857368	0	1	25658	1	0	next	other	0
+16161	40	Sound	Practice	872880	0	1			0		other	0
+16161	40	Picture	response	883026	10146	1	5831	1	10000	25000	hit	52
+16161	40	Port Input	1	888690	15811	1
+16161	40	Response	3	888690	15811	1
+16161	41	Picture	ITI	898854	0	1	20826	1	0	next	other	0
+16161	42	Sound	Practice	909545	0	1			0		other	0
+16161	42	Picture	response	919680	10135	1	5665	1	10000	25000	incorrect	57
+16161	42	Port Input	2	925288	15743	1
+16161	42	Response	4	925288	15743	1
+16161	43	Picture	ITI	935341	0	1	21659	1	0	next	other	0
+16161	44	Sound	Practice	946853	0	1			0		other	0
+16161	44	Picture	response	957000	10148	1	3832	1	10000	25000	hit	62
+16161	44	Port Input	1	960647	13795	1
+16161	44	Response	3	960647	13795	1
+16161	45	Picture	ITI	970829	0	1	23825	1	0	next	other	0
+16161	46	Sound	Practice	984501	0	1			0		other	0
+16161	46	Picture	response	994654	10153	1	6331	1	10000	25000	hit	67
+16161	46	Port Input	1	1000806	16306	1
+16161	46	Response	3	1000806	16306	1
+16161	47	Picture	ITI	1010982	0	1	26491	1	0	next	other	0
+16161	48	Sound	Practice	1022393	0	1			0		other	0
+16161	48	Picture	response	1037473	15079	1	3332	1	15000	25000	hit	72
+16161	48	Port Input	2	1040663	18270	1
+16161	48	Response	4	1040663	18270	1
+16161	49	Picture	ITI	1050801	0	1	25824	1	0	next	other	0
+16161	50	Sound	Practice	1061593	0	1			0		other	0
+16161	50	Picture	response	1076626	15033	1	3332	1	15000	25000	hit	77
+16161	50	Port Input	2	1079771	18178	1
+16161	50	Response	4	1079771	18178	1
+16161	51	Picture	ITI	1089954	0	1	34155	1	0	next	other	0
+16161	52	Sound	Practice	1109076	0	1			0		other	0
+16161	52	Picture	response	1124109	15033	1	2832	1	15000	25000	hit	82
+16161	52	Port Input	2	1126832	17757	1
+16161	52	Response	4	1126832	17757	1
+16161	53	Picture	ITI	1136938	0	1	28157	1	0	next	other	0
+16161	54	Sound	Practice	1154919	0	1			0		other	0
+16161	54	Picture	response	1165095	10175	1	4832	1	10000	25000	hit	87
+16161	54	Port Input	1	1169730	14810	1
+16161	54	Response	3	1169730	14810	1
+16161	55	Picture	ITI	1179756	0	1	22492	1	0	next	other	0
+16161	56	Sound	Practice	1192088	0	1			0		other	0
+16161	56	Picture	response	1202249	10161	1	5665	1	10000	25000	hit	92
+16161	56	Port Input	1	1207869	15781	1
+16161	56	Response	3	1207869	15781	1
+16161	57	Picture	ITI	1217910	0	1	32655	1	0	next	other	0
+16161	58	Sound	Practice	1235521	0	1			0		other	0
+16161	58	Port Input	2	1250412	14891	1
+16161	58	Picture	response	1250565	15044	1	3499	1	15000	25000	hit	98
+16161	58	Port Input	2	1253983	18462	1
+16161	58	Response	4	1253983	18462	1
+16161	59	Picture	ITI	1264060	0	1	28990	1	0	next	other	0
+16161	60	Sound	Practice	1277872	0	1			0		other	0
+16161	60	Picture	response	1293050	15179	1	3332	1	15000	25000	hit	103
+16161	60	Port Input	2	1296183	18311	1
+16161	60	Response	4	1296183	18311	1
+16161	61	Picture	ITI	1306212	0	1	21992	1	0	next	other	0
+16161	62	Sound	Practice	1318114	0	1			0		other	0
+16161	62	Picture	response	1328205	10091	1	2832	1	10000	25000	hit	108
+16161	62	Port Input	1	1330886	12772	1
+16161	62	Response	3	1330886	12772	1
+16161	63	Picture	ITI	1341034	0	1	27657	1	0	next	other	0
+16161	64	Sound	Practice	1358585	0	1			0		other	0
+16161	64	Picture	response	1368691	10106	1	3332	1	10000	25000	hit	113
+16161	64	Port Input	1	1371877	13292	1
+16161	64	Response	3	1371877	13292	1
+16161	65	Picture	ITI	1382019	0	1	25491	1	0	next	other	0
+16161	66	Sound	Practice	1392321	0	1			0		other	0
+16161	66	Picture	response	1407511	15190	1	3665	1	15000	25000	hit	118
+16161	66	Port Input	2	1411089	18768	1
+16161	66	Response	4	1411089	18768	1
+16161	67	Picture	ITI	1421172	0	1	28323	1	0	next	other	0
+16161	68	Sound	Practice	1439424	0	1			0		other	0
+16161	68	Picture	response	1449496	10072	1	2499	1	10000	25000	hit	123
+16161	68	Port Input	1	1451820	12396	1
+16161	68	Response	3	1451820	12396	1
+16161	69	Picture	ITI	1461992	0	1	31322	1	0	next	other	0
+16161	70	Sound	Practice	1478253	0	1			0		other	0
+16161	70	Picture	response	1493314	15061	1	2999	1	15000	25000	hit	128
+16161	70	Port Input	2	1496186	17933	1
+16161	70	Response	4	1496186	17933	1
+16161	71	Picture	ITI	1506309	0	1	25325	1	0	next	other	0
+16161	72	Sound	Practice	1516601	0	1			0		other	0
+16161	72	Picture	response	1531634	15033	1	2832	1	15000	25000	hit	133
+16161	72	Port Input	2	1534366	17765	1
+16161	72	Response	4	1534366	17765	1
+16161	73	Picture	ITI	1544463	0	1	31656	1	0	next	other	0
+16161	74	Sound	Practice	1561004	0	1			0		other	0
+16161	74	Picture	response	1576119	15114	1	1666	1	15000	25000	hit	138
+16161	74	Port Input	2	1577732	16728	1
+16161	74	Response	4	1577732	16728	1
+16161	75	Picture	ITI	1587781	0	1	25158	1	0	next	other	0
+16161	76	Sound	Practice	1602863	0	1			0		other	0
+16161	76	Picture	response	1612939	10076	1	2666	1	10000	25000	hit	143
+16161	76	Port Input	1	1615506	12644	1
+16161	76	Response	3	1615506	12644	1
+16161	77	Picture	ITI	1625601	0	1	31822	1	0	next	other	0
+16161	78	Sound	Practice	1642313	0	1			0		other	0
+16161	78	Picture	response	1657424	15111	1	1999	1	15000	25000	hit	148
+16161	78	Port Input	2	1659268	16955	1
+16161	78	Response	4	1659268	16955	1
+16161	79	Picture	ITI	1669419	0	1	26158	1	0	next	other	0
+16161	80	Sound	Practice	1685421	0	1			0		other	0
+16161	80	Picture	response	1695577	10156	1	3832	1	10000	25000	hit	153
+16161	80	Port Input	1	1699239	13818	1
+16161	80	Response	3	1699239	13818	1
+16161	81	Picture	ITI	1709406	0	1	34655	1	0	next	other	0
+16161	82	Sound	Practice	1728947	0	1			0		other	0
+16161	82	Picture	response	1744060	15113	1	666	1	15000	25000	hit	158
+16161	82	Port Input	2	1744667	15720	1
+16161	82	Response	4	1744667	15720	1
+16161	83	Picture	ITI	1754723	0	1	29323	1	0	next	other	0
+16161	84	Sound	Practice	1773985	0	1			0		other	0
+16161	84	Picture	response	1784046	10062	1	2832	1	10000	25000	hit	163
+16161	84	Port Input	1	1786710	12726	1
+16161	84	Response	3	1786710	12726	1
+16161	85	Picture	ITI	1796875	0	1	23992	1	0	next	other	0
+16161	86	Sound	Practice	1810837	0	1			0		other	0
+16161	86	Picture	response	1820867	10030	1	3999	1	10000	25000	hit	168
+16161	86	Port Input	1	1824755	13919	1
+16161	86	Response	3	1824755	13919	1
+16161	87	Picture	Break	1834862	0	1	47402	1	0	next	other	0
+16161	87	Quit		1876503	41641	NA
+
+
+{
+   "app": "Presentation Version 20.2 Build 07.25.18",
+   "device": "LENOVO 10A8S1PC00",
+   "experiment": "{772213B2-5F0F-4A35-9C2F-36954700C7EA}",
+   "os": "Windows 7 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "Timing Task with Dynanometer.sce",
+   "subject": "16161",
+   "timestamp": "2019/03/06 04:41:14 GMT"
+}

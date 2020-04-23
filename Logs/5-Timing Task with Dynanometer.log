@@ -1,0 +1,1423 @@
+Scenario - Timing Task
+Logfile written - 03/15/2019 16:15:55
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+5	1	Picture	Instruction	500	0	1	62145	1	0	next	other	0
+5	1	Response	3	505	5	1
+5	1	Response	1	57570	57071	0
+5	2	Picture	ITI	62644	0	1	10996	1	0	next	other	0
+5	3	Sound	Stimuli	72660	0	809			0		other	0
+5	4	Picture	Feedback	103297	0	1	20160	1	0	next	other	0
+5	5	Picture	ITI	123457	0	1	10163	1	0	next	other	0
+5	6	Sound	Stimuli	133458	0	1			0		other	0
+5	7	Picture	Feedback	168607	0	1	20160	1	0	next	other	0
+5	8	Picture	ITI	188767	0	1	10163	1	0	next	other	0
+5	9	Sound	Stimuli	198768	0	1			0		other	0
+5	10	Picture	Feedback	228919	0	1	20160	1	0	next	other	0
+5	11	Picture	ITI	249079	0	1	10163	1	0	next	other	0
+5	12	Sound	Stimuli	259080	0	1			0		other	0
+5	13	Picture	Feedback	294063	0	1	20160	1	0	next	other	0
+5	14	Picture	ITI	314223	0	1	10163	1	0	next	other	0
+5	15	Sound	Stimuli	324224	0	1			0		other	0
+5	16	Picture	Feedback	354209	0	1	20160	1	0	next	other	0
+5	17	Picture	ITI	374368	0	1	10163	1	0	next	other	0
+5	18	Sound	Stimuli	384370	0	1			0		other	0
+5	19	Picture	Feedback	419519	0	1	20160	1	0	next	other	0
+5	20	Picture	ITI	439679	0	1	10163	1	0	next	other	0
+5	21	Sound	Stimuli	449680	0	1			0		other	0
+5	22	Picture	Feedback	479665	0	1	20160	1	0	next	other	0
+5	23	Picture	ITI	499824	0	1	10163	1	0	next	other	0
+5	24	Sound	Stimuli	509826	0	1			0		other	0
+5	25	Picture	Feedback	544975	0	1	20160	1	0	next	other	0
+5	26	Picture	ITI	565135	0	1	10163	1	0	next	other	0
+5	27	Sound	Stimuli	575136	0	1			0		other	0
+5	28	Picture	Feedback	605287	0	1	20160	1	0	next	other	0
+5	29	Picture	ITI	625447	0	1	10163	1	0	next	other	0
+5	30	Sound	Stimuli	635448	0	1			0		other	0
+5	31	Picture	Feedback	670598	0	1	20160	1	0	next	other	0
+5	32	Picture	End_Block	690757	0	1	30156	1	0	next	other	0
+5	32	Response	1	720836	30079	0
+5	33	Picture	ITI	720914	0	1	10163	1	0	next	other	0
+5	34	Picture	Break	731077	0	1	17494	1	0	next	other	0
+5	34	Response	1	748515	17439	0
+5	35	Picture	ITI	748570	0	1	10163	1	0	next	other	0
+5	36	Picture	Instruction	758734	0	1	47817	1	0	next	other	0
+5	36	Response	1	801394	42660	0
+5	37	Picture	ITI	806550	0	1	22326	1	0	next	other	0
+5	38	Sound	Practice	818772	0	1			0		other	0
+5	38	Picture	response	828876	10104	1	6831	1	10000	25000	hit	46
+5	38	Port Input	1	835585	16814	1
+5	38	Response	3	835585	16814	1
+5	39	Picture	ITI	845703	0	1	33821	1	0	next	other	0
+5	40	Sound	Practice	864415	0	1			0		other	0
+5	40	Picture	response	879525	15110	1	11496	1	15000	25000	hit	51
+5	40	Port Input	2	890923	26508	1
+5	40	Response	4	890923	26508	1
+5	41	Picture	ITI	901017	0	1	22159	1	0	next	other	0
+5	42	Sound	Practice	913078	0	1			0		other	0
+5	42	Picture	response	923176	10097	1	4165	1	10000	25000	hit	56
+5	42	Port Input	1	927155	14077	1
+5	42	Response	3	927155	14077	1
+5	43	Picture	ITI	937338	0	1	34321	1	0	next	other	0
+5	44	Sound	Practice	956529	0	1			0		other	0
+5	44	Picture	response	971659	15130	1	3832	1	15000	25000	hit	61
+5	44	Port Input	2	975288	18759	1
+5	44	Response	4	975288	18759	1
+5	45	Picture	ITI	985321	0	1	24991	1	0	next	other	0
+5	46	Sound	Practice	1000202	0	1			0		other	0
+5	46	Picture	response	1010312	10110	1	4165	1	10000	25000	hit	66
+5	46	Port Input	1	1014363	14161	1
+5	46	Response	3	1014363	14161	1
+5	47	Picture	ITI	1024474	0	1	26157	1	0	next	other	0
+5	48	Sound	Practice	1040595	0	1			0		other	0
+5	48	Picture	response	1050631	10036	1	5332	1	10000	25000	hit	71
+5	48	Port Input	1	1055832	15237	1
+5	48	Response	3	1055832	15237	1
+5	49	Picture	ITI	1065959	0	1	27824	1	0	next	other	0
+5	50	Sound	Practice	1083621	0	1			0		other	0
+5	50	Picture	response	1093783	10162	1	5165	1	10000	25000	hit	76
+5	50	Port Input	1	1098832	15211	1
+5	50	Response	3	1098832	15211	1
+5	51	Picture	ITI	1108944	0	1	25324	1	0	next	other	0
+5	52	Sound	Practice	1124126	0	2			0		other	0
+5	52	Picture	response	1134269	10142	1	8997	1	10000	25000	hit	81
+5	52	Port Input	1	1143092	18966	1
+5	52	Response	3	1143092	18966	1
+5	53	Picture	ITI	1153262	0	1	28157	1	0	next	other	0
+5	54	Sound	Practice	1166233	0	1			0		other	0
+5	54	Picture	response	1181419	15185	1	6831	1	15000	25000	hit	86
+5	54	Port Input	2	1188112	21879	1
+5	54	Response	4	1188112	21879	1
+5	55	Picture	ITI	1198246	0	1	26991	1	0	next	other	0
+5	56	Sound	Practice	1210118	0	1			0		other	0
+5	56	Picture	response	1225237	15119	1	11496	1	15000	25000	hit	91
+5	56	Port Input	2	1236619	26502	1
+5	56	Response	4	1236619	26502	1
+5	57	Picture	ITI	1246729	0	1	25991	1	0	next	other	0
+5	58	Sound	Practice	1257530	0	1			0		other	0
+5	58	Picture	response	1272720	15190	1	5165	1	15000	25000	hit	96
+5	58	Port Input	2	1277839	20309	1
+5	58	Response	4	1277839	20309	1
+5	59	Picture	ITI	1287881	0	1	32489	1	0	next	other	0
+5	60	Sound	Practice	1305273	0	1			0		other	0
+5	60	Picture	response	1320370	15097	1	10496	1	15000	25000	incorrect	101
+5	60	Port Input	1	1330761	25489	1
+5	60	Response	3	1330761	25489	1
+5	61	Picture	ITI	1340863	0	1	24491	1	0	next	other	0
+5	62	Sound	Practice	1355274	0	1			0		other	0
+5	62	Picture	response	1365354	10080	1	7997	1	10000	25000	hit	106
+5	62	Port Input	1	1373272	17998	1
+5	62	Response	3	1373272	17998	1
+5	63	Picture	ITI	1383348	0	1	26657	1	0	next	other	0
+5	64	Sound	Practice	1394929	0	1			0		other	0
+5	64	Picture	response	1410005	15076	1	3832	1	15000	25000	hit	111
+5	64	Port Input	2	1413638	18709	1
+5	64	Response	4	1413638	18709	1
+5	65	Picture	ITI	1423667	0	1	28990	1	0	next	other	0
+5	66	Sound	Practice	1442468	0	1			0		other	0
+5	66	Picture	response	1452657	10188	1	3832	1	10000	25000	hit	116
+5	66	Port Input	1	1456315	13847	1
+5	66	Response	3	1456315	13847	1
+5	67	Picture	ITI	1466485	0	1	22825	1	0	next	other	0
+5	68	Sound	Practice	1479227	0	1			0		other	0
+5	68	Picture	response	1489311	10084	1	5165	1	10000	25000	hit	121
+5	68	Port Input	1	1494328	15101	1
+5	68	Response	3	1494328	15101	1
+5	69	Picture	ITI	1504472	0	1	24325	1	0	next	other	0
+5	70	Sound	Practice	1518613	0	1			0		other	0
+5	70	Picture	response	1528797	10183	1	6664	1	10000	25000	hit	126
+5	70	Port Input	1	1535381	16767	1
+5	70	Response	3	1535381	16767	1
+5	71	Picture	ITI	1545458	0	1	27990	1	0	next	other	0
+5	72	Sound	Practice	1558419	0	1			0		other	0
+5	72	Picture	response	1573448	15029	1	9163	1	15000	25000	hit	131
+5	72	Port Input	2	1582452	24033	1
+5	72	Response	4	1582452	24033	1
+5	73	Picture	ITI	1592608	0	1	31322	1	0	next	other	0
+5	74	Sound	Practice	1608899	0	1			0		other	0
+5	74	Picture	response	1623930	15031	1	16828	1	15000	25000	hit	136
+5	74	Port Input	2	1640684	31785	1
+5	74	Response	4	1640684	31785	1
+5	75	Picture	ITI	1650754	0	1	25991	1	0	next	other	0
+5	76	Sound	Practice	1666555	0	1			0		other	0
+5	76	Picture	response	1676745	10189	1	7164	1	10000	25000	hit	141
+5	76	Port Input	1	1683861	17305	1
+5	76	Response	3	1683861	17305	1
+5	77	Picture	ITI	1693905	0	1	31156	1	0	next	other	0
+5	78	Sound	Practice	1709907	0	1			0		other	0
+5	78	Picture	response	1725061	15154	1	9663	1	15000	25000	hit	146
+5	78	Port Input	2	1734586	24679	1
+5	78	Response	4	1734586	24679	1
+5	79	Picture	ITI	1744721	0	1	22825	1	0	next	other	0
+5	80	Sound	Practice	1757382	0	1			0		other	0
+5	80	Picture	response	1767546	10164	1	15328	1	10000	25000	hit	151
+5	80	Port Input	1	1782823	25441	1
+5	80	Response	3	1782823	25441	1
+5	81	Picture	ITI	1792871	0	1	22992	1	0	next	other	0
+5	82	Sound	Practice	1805712	0	1			0		other	0
+5	82	Picture	response	1815863	10151	1	5998	1	10000	25000	hit	156
+5	82	Port Input	1	1821794	16082	1
+5	82	Response	3	1821794	16082	1
+5	83	Picture	ITI	1831857	0	1	27657	1	0	next	other	0
+5	84	Sound	Practice	1844389	0	1			0		other	0
+5	84	Picture	response	1859514	15125	1	4498	1	15000	25000	hit	161
+5	84	Port Input	2	1863836	19447	1
+5	84	Response	4	1863836	19447	1
+5	85	Picture	ITI	1874009	0	1	28323	1	0	next	other	0
+5	86	Sound	Practice	1887280	0	1			0		other	0
+5	86	Picture	response	1902332	15052	1	8997	1	15000	25000	incorrect	166
+5	86	Port Input	1	1911261	23980	1
+5	86	Response	3	1911261	23980	1
+5	87	Picture	Break	1921326	0	1	18160	1	0	next	other	0
+5	87	Response	1	1939370	18044	0
+5	88	Picture	Instruction	1939486	0	1	23825	1	0	next	other	0
+5	88	Response	1	1963129	23643	0
+5	89	Picture	ITI	1963311	0	1	15161	1	0	next	other	0
+5	90	Picture	ITI	1978472	0	1	31489	1	0	next	other	0
+5	91	Sound	test	1998424	0	1			0		other	0
+5	91	Picture	response	2009961	11538	1	11663	1	11450	25000	incorrect	176
+5	91	Port Input	2	2021509	23086	1
+5	91	Response	4	2021509	23086	1
+5	92	Picture	ITI	2022624	0	1	28490	1	0	next	other	0
+5	93	Sound	test	2036085	0	1			0		other	0
+5	93	Picture	response	2051113	15029	1	4498	1	15000	25000	incorrect	181
+5	93	Port Input	2	2055441	19356	1
+5	93	Response	4	2055441	19356	1
+5	94	Picture	ITI	2056445	0	1	25158	1	0	next	other	0
+5	95	Sound	test	2069976	0	1			0		other	0
+5	95	Picture	response	2081603	11627	1	11996	1	11450	25000	incorrect	186
+5	95	Port Input	2	2093526	23550	1
+5	95	Response	4	2093526	23550	1
+5	96	Picture	ITI	2094598	0	1	26157	1	0	next	other	0
+5	97	Sound	test	2105600	0	1			0		other	0
+5	97	Picture	response	2120756	15156	1	9663	1	15000	25000	incorrect	191
+5	97	Port Input	2	2130238	24638	1
+5	97	Response	4	2130238	24638	1
+5	98	Picture	ITI	2131252	0	1	25658	1	0	next	other	0
+5	99	Sound	test	2146093	0	1			0		other	0
+5	99	Picture	response	2156910	10816	1	4998	1	10700	25000	incorrect	196
+5	99	Port Input	1	2161858	15765	1
+5	99	Response	3	2161858	15765	1
+5	100	Picture	ITI	2162908	0	1	27990	1	0	next	other	0
+5	101	Sound	test	2176739	0	1			0		other	0
+5	101	Picture	response	2190898	14159	1	4498	1	14020	25000	incorrect	201
+5	101	Port Input	2	2195227	18488	1
+5	101	Response	4	2195227	18488	1
+5	102	Picture	ITI	2196229	0	1	28157	1	0	next	other	0
+5	103	Sound	test	2213651	0	1			0		other	0
+5	103	Picture	response	2224386	10736	1	3999	1	10700	25000	incorrect	206
+5	103	Port Input	1	2228253	14602	1
+5	103	Response	3	2228253	14602	1
+5	104	Picture	ITI	2229218	0	1	25991	1	0	next	other	0
+5	105	Sound	test	2244319	0	1			0		other	0
+5	105	Picture	response	2255209	10890	1	4165	1	10700	25000	incorrect	211
+5	105	Port Input	2	2259248	14929	1
+5	105	Response	4	2259248	14929	1
+5	106	Picture	ITI	2260373	0	1	25324	1	0	next	other	0
+5	107	Sound	test	2274105	0	1			0		other	0
+5	107	Picture	response	2285698	11593	1	4498	1	11450	25000	incorrect	216
+5	107	Port Input	2	2290139	16035	1
+5	107	Response	4	2290139	16035	1
+5	108	Picture	ITI	2291196	0	1	34655	1	0	next	other	0
+5	109	Sound	test	2310817	0	1			0		other	0
+5	109	Picture	response	2325850	15033	1	9663	1	15000	25000	incorrect	221
+5	109	Port Input	2	2335398	24581	1
+5	109	Response	4	2335398	24581	1
+5	110	Picture	ITI	2336513	0	1	21159	1	0	next	other	0
+5	111	Sound	test	2346865	0	1			0		other	0
+5	111	Picture	response	2357673	10808	1	8330	1	10700	25000	incorrect	226
+5	111	Port Input	1	2365821	18957	1
+5	111	Response	3	2365821	18957	1
+5	112	Picture	ITI	2366836	0	1	27824	1	0	next	other	0
+5	113	Sound	test	2380547	0	1			0		other	0
+5	113	Picture	response	2394660	14112	1	7497	1	14020	25000	incorrect	231
+5	113	Port Input	1	2402116	21569	1
+5	113	Response	3	2402116	21569	1
+5	114	Picture	ITI	2403157	0	1	23825	1	0	next	other	0
+5	115	Sound	test	2414678	0	1			0		other	0
+5	115	Picture	response	2426982	12303	1	13495	1	12250	25000	incorrect	236
+5	115	Port Input	1	2440379	25701	1
+5	115	Response	3	2440379	25701	1
+5	116	Picture	ITI	2441310	0	1	20160	1	0	next	other	0
+5	117	Sound	test	2451431	0	1			0		other	0
+5	117	Picture	response	2461470	10038	1	7831	1	10000	25000	incorrect	241
+5	117	Port Input	1	2469115	17684	1
+5	117	Response	3	2469115	17684	1
+5	118	Picture	ITI	2470133	0	1	23325	1	0	next	other	0
+5	119	Sound	test	2483354	0	1			0		other	0
+5	119	Picture	response	2493458	10104	1	6164	1	10000	25000	incorrect	246
+5	119	Port Input	1	2499496	16142	1
+5	119	Response	3	2499496	16142	1
+5	120	Picture	ITI	2500622	0	1	33655	1	0	next	other	0
+5	121	Sound	test	2519224	0	1			0		other	0
+5	121	Picture	response	2534277	15054	1	22825	1	15000	25000	incorrect	251
+5	121	Port Input	2	2556978	37755	1
+5	121	Response	4	2556978	37755	1
+5	122	Picture	ITI	2558102	0	1	21326	1	0	next	other	0
+5	123	Sound	test	2569274	0	1			0		other	0
+5	123	Picture	response	2579428	10155	1	6998	1	10000	25000	incorrect	256
+5	123	Port Input	1	2586266	16993	1
+5	123	Response	3	2586266	16993	1
+5	124	Picture	ITI	2587259	0	1	21159	1	0	next	other	0
+5	125	Sound	test	2598370	0	1			0		other	0
+5	125	Picture	response	2608418	10048	1	6831	1	10000	25000	incorrect	261
+5	125	Port Input	1	2615096	16726	1
+5	125	Response	3	2615096	16726	1
+5	126	Picture	ITI	2616249	0	1	24491	1	0	next	other	0
+5	127	Sound	test	2629850	0	1			0		other	0
+5	127	Picture	response	2640740	10890	1	14828	1	10700	25000	incorrect	266
+5	127	Port Input	2	2655472	25622	1
+5	127	Response	4	2655472	25622	1
+5	128	Picture	ITI	2656401	0	1	28990	1	0	next	other	0
+5	129	Sound	test	2671182	0	1			0		other	0
+5	129	Picture	response	2685391	14209	1	9997	1	14020	25000	incorrect	271
+5	129	Port Input	2	2695203	24020	1
+5	129	Response	4	2695203	24020	1
+5	130	Picture	ITI	2696221	0	1	31156	1	0	next	other	0
+5	131	Sound	test	2713202	0	1			0		other	0
+5	131	Picture	response	2727376	14174	1	12829	1	14020	25000	incorrect	276
+5	131	Port Input	2	2740139	26937	1
+5	131	Response	4	2740139	26937	1
+5	132	Picture	ITI	2741205	0	1	31656	1	0	next	other	0
+5	133	Sound	test	2759706	0	1			0		other	0
+5	133	Picture	response	2772860	13154	1	8164	1	13100	25000	incorrect	281
+5	133	Port Input	2	2780963	21257	1
+5	133	Response	4	2780963	21257	1
+5	134	Picture	ITI	2782024	0	1	29490	1	0	next	other	0
+5	135	Sound	test	2799955	0	1			0		other	0
+5	135	Picture	response	2811513	11558	1	6998	1	11450	25000	incorrect	286
+5	135	Port Input	2	2818330	18375	1
+5	135	Response	4	2818330	18375	1
+5	136	Picture	ITI	2819344	0	1	25324	1	0	next	other	0
+5	137	Sound	test	2834495	0	1			0		other	0
+5	137	Picture	response	2844668	10173	1	8164	1	10000	25000	incorrect	291
+5	137	Port Input	1	2852657	18162	1
+5	137	Response	3	2852657	18162	1
+5	138	Picture	ITI	2853665	0	1	28657	1	0	next	other	0
+5	139	Sound	test	2868127	0	1			0		other	0
+5	139	Picture	response	2882322	14195	1	3999	1	14020	25000	incorrect	296
+5	139	Port Input	2	2886256	18129	1
+5	139	Response	4	2886256	18129	1
+5	140	Picture	ITI	2887320	0	1	29656	1	0	next	other	0
+5	141	Sound	test	2901791	0	1			0		other	0
+5	141	Picture	response	2916976	15185	1	5332	1	15000	25000	incorrect	301
+5	141	Port Input	2	2922124	20332	1
+5	141	Response	4	2922124	20332	1
+5	142	Picture	ITI	2923141	0	1	30489	1	0	next	other	0
+5	143	Sound	test	2942852	0	1			0		other	0
+5	143	Picture	response	2953630	10778	1	6331	1	10700	25000	incorrect	306
+5	143	Port Input	1	2959876	17024	1
+5	143	Response	3	2959876	17024	1
+5	144	Picture	ITI	2960961	0	1	33155	1	0	next	other	0
+5	145	Sound	test	2978972	0	1			0		other	0
+5	145	Picture	response	2994116	15144	1	3665	1	15000	25000	incorrect	311
+5	145	Port Input	2	2997670	18698	1
+5	145	Response	4	2997670	18698	1
+5	146	Picture	ITI	2998781	0	1	30156	1	0	next	other	0
+5	147	Sound	test	3013892	0	1			0		other	0
+5	147	Picture	response	3028937	15045	1	4832	1	15000	25000	incorrect	316
+5	147	Port Input	2	3033705	19813	1
+5	147	Response	4	3033705	19813	1
+5	148	Picture	ITI	3034768	0	1	21826	1	0	next	other	0
+5	149	Sound	test	3044970	0	1			0		other	0
+5	149	Picture	response	3056594	11624	1	8997	1	11450	25000	incorrect	321
+5	149	Port Input	1	3065492	20522	1
+5	149	Response	3	3065492	20522	1
+5	150	Picture	ITI	3066591	0	1	27990	1	0	next	other	0
+5	151	Sound	test	3081452	0	1			0		other	0
+5	151	Picture	response	3094581	13129	1	4165	1	13100	25000	incorrect	326
+5	151	Port Input	2	3098559	17107	1
+5	151	Response	4	3098559	17107	1
+5	152	Picture	ITI	3099579	0	1	25824	1	0	next	other	0
+5	153	Sound	test	3115310	0	1			0		other	0
+5	153	Picture	response	3125403	10093	1	4665	1	10000	25000	incorrect	331
+5	153	Port Input	1	3129887	14577	1
+5	153	Response	3	3129887	14577	1
+5	154	Picture	ITI	3130901	0	1	22159	1	0	next	other	0
+5	155	Sound	test	3141433	0	1			0		other	0
+5	155	Picture	response	3153060	11628	1	13829	1	11450	25000	incorrect	336
+5	155	Port Input	1	3166713	25281	1
+5	155	Response	3	3166713	25281	1
+5	156	Picture	ITI	3167722	0	1	24158	1	0	next	other	0
+5	157	Sound	test	3181833	0	1			0		other	0
+5	157	Picture	response	3191880	10047	1	15328	1	10000	25000	incorrect	341
+5	157	Port Input	1	3207100	25267	1
+5	157	Response	3	3207100	25267	1
+5	158	Picture	ITI	3208208	0	1	27490	1	0	next	other	0
+5	159	Sound	test	3220669	0	1			0		other	0
+5	159	Picture	response	3235698	15029	1	3832	1	15000	25000	incorrect	346
+5	159	Port Input	2	3239469	18801	1
+5	159	Response	4	3239469	18801	1
+5	160	Picture	ITI	3240530	0	1	32988	1	0	next	other	0
+5	161	Sound	test	3260391	0	1			0		other	0
+5	161	Picture	response	3273518	13127	1	6331	1	13100	25000	incorrect	351
+5	161	Port Input	2	3279794	19403	1
+5	161	Response	4	3279794	19403	1
+5	162	Picture	ITI	3280849	0	1	29156	1	0	next	other	0
+5	163	Sound	test	3298410	0	1			0		other	0
+5	163	Picture	response	3310005	11595	1	4498	1	11450	25000	incorrect	356
+5	163	Port Input	2	3314464	16054	1
+5	163	Response	4	3314464	16054	1
+5	164	Picture	ITI	3315503	0	1	30323	1	0	next	other	0
+5	165	Sound	test	3333524	0	1			0		other	0
+5	165	Picture	response	3345826	12301	1	4165	1	12250	25000	incorrect	361
+5	165	Port Input	1	3349812	16287	1
+5	165	Response	3	3349812	16287	1
+5	166	Picture	ITI	3350824	0	1	28657	1	0	next	other	0
+5	167	Sound	test	3367105	0	1			0		other	0
+5	167	Picture	response	3379481	12375	1	7831	1	12250	25000	incorrect	366
+5	167	Port Input	2	3387200	20094	1
+5	167	Response	4	3387200	20094	1
+5	168	Picture	ITI	3388311	0	1	22159	1	0	next	other	0
+5	169	Sound	test	3398852	0	1			0		other	0
+5	169	Picture	response	3410470	11617	1	15661	1	11450	25000	incorrect	371
+5	169	Port Input	1	3425972	27120	1
+5	169	Response	3	3425972	27120	1
+5	170	Picture	ITI	3427131	0	1	27657	1	0	next	other	0
+5	171	Sound	test	3444612	0	1			0		other	0
+5	171	Picture	response	3454788	10176	1	7664	1	10000	25000	incorrect	376
+5	171	Port Input	2	3462246	17635	1
+5	171	Response	4	3462246	17635	1
+5	172	Picture	ITI	3463285	0	1	21992	1	0	next	other	0
+5	173	Sound	test	3475186	0	1			0		other	0
+5	173	Picture	response	3485277	10091	1	5165	1	10000	25000	incorrect	381
+5	173	Port Input	1	3490358	15172	1
+5	173	Response	3	3490358	15172	1
+5	174	Picture	ITI	3491442	0	1	30656	1	0	next	other	0
+5	175	Sound	test	3511323	0	1			0		other	0
+5	175	Picture	response	3522097	10775	1	9330	1	10700	25000	incorrect	386
+5	175	Port Input	1	3531244	19921	1
+5	175	Response	3	3531244	19921	1
+5	176	Picture	ITI	3532261	0	1	27657	1	0	next	other	0
+5	177	Sound	test	3546782	0	1			0		other	0
+5	177	Picture	response	3559918	13136	1	4332	1	13100	25000	incorrect	391
+5	177	Port Input	2	3564072	17290	1
+5	177	Response	4	3564072	17290	1
+5	178	Picture	ITI	3565082	0	1	29990	1	0	next	other	0
+5	179	Sound	test	3580984	0	1			0		other	0
+5	179	Picture	response	3595072	14088	1	4998	1	14020	25000	incorrect	396
+5	179	Port Input	1	3599982	18998	1
+5	179	Response	3	3599982	18998	1
+5	180	Picture	ITI	3601070	0	1	30156	1	0	next	other	0
+5	181	Sound	test	3618101	0	1			0		other	0
+5	181	Picture	response	3631226	13125	1	6831	1	13100	25000	incorrect	401
+5	181	Port Input	1	3637942	19841	1
+5	181	Response	3	3637942	19841	1
+5	182	Picture	ITI	3638890	0	1	25824	1	0	next	other	0
+5	183	Sound	test	3653951	0	1			0		other	0
+5	183	Picture	response	3664714	10763	1	9164	1	10700	25000	incorrect	406
+5	183	Port Input	1	3673769	19818	1
+5	183	Response	3	3673769	19818	1
+5	184	Picture	ITI	3674877	0	1	24825	1	0	next	other	0
+5	185	Sound	test	3688198	0	1			0		other	0
+5	185	Picture	response	3699702	11503	1	15161	1	11450	25000	incorrect	411
+5	185	Port Input	1	3714759	26561	1
+5	185	Response	3	3714759	26561	1
+5	186	Picture	ITI	3715863	0	1	22992	1	0	next	other	0
+5	187	Sound	test	3728034	0	1			0		other	0
+5	187	Picture	response	3738855	10821	1	6331	1	10700	25000	incorrect	416
+5	187	Port Input	1	3744984	16950	1
+5	187	Response	3	3744984	16950	1
+5	188	Picture	ITI	3746019	0	1	23658	1	0	next	other	0
+5	189	Sound	test	3759620	0	1			0		other	0
+5	189	Picture	response	3769677	10057	1	10830	1	10000	25000	incorrect	421
+5	189	Port Input	1	3780415	20795	1
+5	189	Response	3	3780415	20795	1
+5	190	Picture	ITI	3781506	0	1	30823	1	0	next	other	0
+5	191	Sound	test	3797248	0	1			0		other	0
+5	191	Picture	response	3812329	15081	1	5831	1	15000	25000	incorrect	426
+5	191	Port Input	2	3818084	20836	1
+5	191	Response	4	3818084	20836	1
+5	192	Picture	ITI	3819160	0	1	33322	1	0	next	other	0
+5	193	Sound	test	3838381	0	1			0		other	0
+5	193	Picture	response	3852482	14100	1	5165	1	14020	25000	incorrect	431
+5	193	Port Input	1	3857481	19100	1
+5	193	Response	3	3857481	19100	1
+5	194	Picture	ITI	3858479	0	1	30156	1	0	next	other	0
+5	195	Sound	test	3876301	0	1			0		other	0
+5	195	Picture	response	3888635	12335	1	19493	1	12250	25000	incorrect	436
+5	195	Port Input	1	3907988	31688	1
+5	195	Response	3	3907988	31688	1
+5	196	Picture	ITI	3909128	0	1	30323	1	0	next	other	0
+5	197	Sound	test	3928670	0	1			0		other	0
+5	197	Picture	response	3939451	10781	1	7331	1	10700	25000	incorrect	441
+5	197	Port Input	1	3946657	17987	1
+5	197	Response	3	3946657	17987	1
+5	198	Picture	ITI	3947781	0	1	29823	1	0	next	other	0
+5	199	Sound	test	3966093	0	1			0		other	0
+5	199	Picture	response	3977604	11512	1	12496	1	11450	25000	incorrect	446
+5	199	Port Input	1	3989969	23876	1
+5	199	Response	3	3989969	23876	1
+5	200	Picture	ITI	3991100	0	1	29157	1	0	next	other	0
+5	201	Sound	test	4005181	0	1			0		other	0
+5	201	Picture	response	4020256	15075	1	7164	1	15000	25000	incorrect	451
+5	201	Port Input	2	4027305	22124	1
+5	201	Response	4	4027305	22124	1
+5	202	Picture	ITI	4028420	0	1	26491	1	0	next	other	0
+5	203	Sound	test	4040831	0	1			0		other	0
+5	203	Picture	response	4054911	14080	1	11163	1	14020	25000	incorrect	456
+5	203	Port Input	2	4065911	25080	1
+5	203	Response	4	4065911	25080	1
+5	204	Picture	ITI	4066906	0	1	31322	1	0	next	other	0
+5	205	Sound	test	4085898	0	1			0		other	0
+5	205	Picture	response	4098229	12331	1	6164	1	12250	25000	incorrect	461
+5	205	Port Input	1	4104236	18339	1
+5	205	Response	3	4104236	18339	1
+5	206	Picture	ITI	4105226	0	1	32655	1	0	next	other	0
+5	207	Sound	test	4123777	0	1			0		other	0
+5	207	Picture	response	4137881	14104	1	14662	1	14020	25000	incorrect	466
+5	207	Port Input	2	4152463	28686	1
+5	207	Response	4	4152463	28686	1
+5	208	Picture	ITI	4153543	0	1	23492	1	0	next	other	0
+5	209	Sound	test	4166844	0	1			0		other	0
+5	209	Picture	response	4177034	10191	1	5998	1	10000	25000	incorrect	471
+5	209	Port Input	1	4182886	16042	1
+5	209	Response	3	4182886	16042	1
+5	210	Picture	ITI	4183865	0	1	22992	1	0	next	other	0
+5	211	Sound	test	4195287	0	1			0		other	0
+5	211	Picture	response	4206857	11571	1	5998	1	11450	25000	incorrect	476
+5	211	Port Input	1	4212736	17449	1
+5	211	Response	3	4212736	17449	1
+5	212	Picture	ITI	4213688	0	1	23992	1	0	next	other	0
+5	213	Sound	test	4224509	0	1			0		other	0
+5	213	Picture	response	4237680	13170	1	5498	1	13100	25000	incorrect	481
+5	213	Port Input	1	4243106	18597	1
+5	213	Response	3	4243106	18597	1
+5	214	Picture	ITI	4244177	0	1	29990	1	0	next	other	0
+5	215	Sound	test	4261779	0	1			0		other	0
+5	215	Picture	response	4274167	12388	1	11663	1	12250	25000	incorrect	486
+5	215	Port Input	1	4285638	23859	1
+5	215	Response	3	4285638	23859	1
+5	216	Picture	ITI	4286663	0	1	26824	1	0	next	other	0
+5	217	Sound	test	4301934	0	1			0		other	0
+5	217	Picture	response	4313486	11553	1	7831	1	11450	25000	incorrect	491
+5	217	Port Input	2	4321173	19239	1
+5	217	Response	4	4321173	19239	1
+5	218	Picture	ITI	4322317	0	1	34488	1	0	next	other	0
+5	219	Sound	test	4341658	0	1			0		other	0
+5	219	Picture	response	4356805	15147	1	4665	1	15000	25000	incorrect	496
+5	219	Port Input	2	4361330	19672	1
+5	219	Response	4	4361330	19672	1
+5	220	Picture	ITI	4362303	0	1	26657	1	0	next	other	0
+5	221	Sound	test	4378914	0	1			0		other	0
+5	221	Picture	response	4388960	10046	1	11163	1	10000	25000	incorrect	501
+5	221	Port Input	2	4399957	21043	1
+5	221	Response	4	4399957	21043	1
+5	222	Picture	ITI	4401122	0	1	32322	1	0	next	other	0
+5	223	Sound	test	4418284	0	1			0		other	0
+5	223	Picture	response	4433444	15161	1	7164	1	15000	25000	incorrect	506
+5	223	Port Input	2	4440448	22164	1
+5	223	Response	4	4440448	22164	1
+5	224	Picture	ITI	4441608	0	1	33988	1	0	next	other	0
+5	225	Sound	test	4460540	0	1			0		other	0
+5	225	Picture	response	4475596	15057	1	7664	1	15000	25000	incorrect	511
+5	225	Port Input	2	4483167	22627	1
+5	225	Response	4	4483167	22627	1
+5	226	Picture	ITI	4484260	0	1	21326	1	0	next	other	0
+5	227	Sound	test	4495541	0	1			0		other	0
+5	227	Picture	response	4505586	10045	1	4498	1	10000	25000	incorrect	516
+5	227	Port Input	1	4510008	14467	1
+5	227	Response	3	4510008	14467	1
+5	228	Picture	ITI	4511084	0	1	31156	1	0	next	other	0
+5	229	Sound	test	4530745	0	2			0		other	0
+5	229	Picture	response	4542239	11494	1	13995	1	11450	25000	incorrect	521
+5	229	Port Input	1	4556100	25355	1
+5	229	Response	3	4556100	25355	1
+5	230	Picture	ITI	4557068	0	1	23658	1	0	next	other	0
+5	231	Sound	test	4568289	0	1			0		other	0
+5	231	Picture	response	4580726	12437	1	7831	1	12250	25000	incorrect	526
+5	231	Port Input	2	4588387	20098	1
+5	231	Response	4	4588387	20098	1
+5	232	Picture	ITI	4589390	0	1	28490	1	0	next	other	0
+5	233	Sound	test	4607091	0	1			0		other	0
+5	233	Picture	response	4617880	10789	1	6331	1	10700	25000	incorrect	531
+5	233	Port Input	2	4624109	17018	1
+5	233	Response	4	4624109	17018	1
+5	234	Picture	ITI	4625210	0	1	26824	1	0	next	other	0
+5	235	Sound	test	4641262	0	1			0		other	0
+5	235	Picture	response	4652034	10773	1	10996	1	10700	25000	incorrect	536
+5	235	Port Input	1	4662902	21641	1
+5	235	Response	3	4662902	21641	1
+5	236	Picture	ITI	4663864	0	1	30822	1	0	next	other	0
+5	237	Sound	test	4681455	0	1			0		other	0
+5	237	Picture	response	4694686	13231	1	5165	1	13100	25000	incorrect	541
+5	237	Port Input	1	4699780	18325	1
+5	237	Response	3	4699780	18325	1
+5	238	Picture	ITI	4700851	0	1	32988	1	0	next	other	0
+5	239	Sound	test	4720692	0	1			0		other	0
+5	239	Picture	response	4733839	13147	1	4498	1	13100	25000	incorrect	546
+5	239	Port Input	2	4738189	17497	1
+5	239	Response	4	4738189	17497	1
+5	240	Picture	ITI	4739170	0	1	29490	1	0	next	other	0
+5	241	Sound	test	4756272	0	1			0		other	0
+5	241	Picture	response	4768660	12388	1	10163	1	12250	25000	incorrect	551
+5	241	Port Input	1	4778711	22439	1
+5	241	Response	3	4778711	22439	1
+5	242	Picture	ITI	4779656	0	1	30656	1	0	next	other	0
+5	243	Sound	test	4798708	0	1			0		other	0
+5	243	Picture	response	4810312	11605	1	7831	1	11450	25000	incorrect	556
+5	243	Port Input	1	4818025	19317	1
+5	243	Response	3	4818025	19317	1
+5	244	Picture	ITI	4818976	0	1	29323	1	0	next	other	0
+5	245	Sound	test	4835998	0	1			0		other	0
+5	245	Picture	response	4848299	12301	1	9330	1	12250	25000	incorrect	561
+5	245	Port Input	1	4857495	21498	1
+5	245	Response	3	4857495	21498	1
+5	246	Picture	ITI	4858462	0	1	24991	1	0	next	other	0
+5	247	Sound	test	4871073	0	1			0		other	0
+5	247	Picture	response	4883453	12380	1	4498	1	12250	25000	incorrect	566
+5	247	Port Input	1	4887835	16762	1
+5	247	Response	3	4887835	16762	1
+5	248	Picture	ITI	4888951	0	1	31822	1	0	next	other	0
+5	249	Sound	test	4906633	0	1			0		other	0
+5	249	Picture	response	4920773	14141	1	3832	1	14020	25000	incorrect	571
+5	249	Port Input	2	4924504	17872	1
+5	249	Response	4	4924504	17872	1
+5	250	Picture	ITI	4925605	0	1	28323	1	0	next	other	0
+5	251	Sound	test	4941576	0	1			0		other	0
+5	251	Picture	response	4953928	12352	1	13828	1	12250	25000	incorrect	576
+5	251	Port Input	2	4967681	26105	1
+5	251	Response	4	4967681	26105	1
+5	252	Picture	ITI	4968757	0	1	32988	1	0	next	other	0
+5	253	Sound	test	4988508	0	1			0		other	0
+5	253	Picture	response	5001745	13237	1	5498	1	13100	25000	incorrect	581
+5	253	Port Input	1	5007068	18561	1
+5	253	Response	3	5007068	18561	1
+5	254	Picture	ITI	5008076	0	1	24158	2	0	next	other	0
+5	255	Sound	test	5021417	0	1			0		other	0
+5	255	Picture	response	5032234	10817	2	15161	2	10700	25000	incorrect	586
+5	255	Port Input	1	5047216	25798	1
+5	255	Response	3	5047216	25798	1
+5	256	Picture	ITI	5048229	0	1	26990	1	0	next	other	0
+5	257	Sound	test	5061970	0	1			0		other	0
+5	257	Picture	response	5075219	13249	1	25158	1	13100	25000	miss	0
+5	258	Picture	ITI	5100544	0	1	27657	1	0	next	other	0
+5	259	Sound	test	5114995	0	1			0		other	0
+5	259	Picture	response	5128201	13206	1	4498	1	13100	25000	incorrect	594
+5	259	Port Input	2	5132497	17502	1
+5	259	Response	4	5132497	17502	1
+5	260	Picture	ITI	5133532	0	1	25991	1	0	next	other	0
+5	261	Sound	test	5144363	0	1			0		other	0
+5	261	Picture	response	5159523	15160	1	8830	1	15000	25000	incorrect	599
+5	261	Port Input	2	5168292	23929	1
+5	261	Response	4	5168292	23929	1
+5	262	Picture	ITI	5169353	0	1	29656	1	0	next	other	0
+5	263	Sound	test	5185804	0	1			0		other	0
+5	263	Picture	response	5199009	13205	1	25158	1	13100	25000	miss	0
+5	264	Picture	ITI	5224334	0	1	25658	1	0	next	other	0
+5	265	Sound	test	5236725	0	1			0		other	0
+5	265	Picture	response	5249991	13266	1	8664	1	13100	25000	incorrect	607
+5	265	Port Input	2	5258509	21784	1
+5	265	Response	4	5258509	21784	1
+5	266	Picture	ITI	5259488	0	1	28490	1	0	next	other	0
+5	267	Sound	test	5272909	0	1			0		other	0
+5	267	Picture	response	5287978	15069	1	4165	1	15000	25000	incorrect	612
+5	267	Port Input	2	5291982	19073	1
+5	267	Response	4	5291982	19073	1
+5	268	Picture	ITI	5292976	0	1	26324	1	0	next	other	0
+5	269	Sound	test	5305187	0	1			0		other	0
+5	269	Picture	response	5319300	14113	1	15328	1	14020	25000	incorrect	617
+5	269	Port Input	2	5334503	29315	1
+5	269	Response	4	5334503	29315	1
+5	270	Picture	ITI	5335461	0	1	30823	1	0	next	other	0
+5	271	Sound	test	5353902	0	1			0		other	0
+5	271	Picture	response	5366284	12381	1	8830	1	12250	25000	incorrect	622
+5	271	Port Input	1	5374952	21049	1
+5	271	Response	3	5374952	21049	1
+5	272	Picture	ITI	5375947	0	1	27824	1	0	next	other	0
+5	273	Sound	test	5389578	0	1			0		other	0
+5	273	Picture	response	5403771	14192	1	25158	1	14020	25000	miss	0
+5	274	Picture	ITI	5429095	0	1	26324	1	0	next	other	0
+5	275	Sound	test	5445376	0	1			0		other	0
+5	275	Picture	response	5455419	10043	1	5831	1	10000	25000	incorrect	630
+5	275	Port Input	1	5461150	15773	1
+5	275	Response	3	5461150	15773	1
+5	276	Picture	ITI	5462250	0	1	28157	1	0	next	other	0
+5	277	Sound	test	5480361	0	1			0		other	0
+5	277	Picture	response	5490407	10046	1	25158	1	10000	25000	miss	0
+5	278	Picture	ITI	5515731	0	1	26157	1	0	next	other	0
+5	279	Sound	test	5527733	0	1			0		other	0
+5	279	Picture	response	5541889	14156	1	6831	1	14020	25000	incorrect	638
+5	279	Port Input	2	5548680	20947	1
+5	279	Response	4	5548680	20947	1
+5	280	Picture	ITI	5549719	0	1	25658	1	0	next	other	0
+5	281	Sound	test	5560321	0	1			0		other	0
+5	281	Picture	response	5575377	15056	1	5165	1	15000	25000	incorrect	643
+5	281	Port Input	2	5580362	20042	1
+5	281	Response	4	5580362	20042	1
+5	282	Picture	ITI	5581375	0	1	26157	1	0	next	other	0
+5	283	Sound	test	5595186	0	1			0		other	0
+5	283	Picture	response	5607532	12346	1	6164	1	12250	25000	incorrect	648
+5	283	Port Input	2	5613554	18368	1
+5	283	Response	4	5613554	18368	1
+5	284	Picture	ITI	5614697	0	1	25991	1	0	next	other	0
+5	285	Sound	test	5629198	0	1			0		other	0
+5	285	Picture	response	5640687	11490	1	6498	1	11450	25000	incorrect	653
+5	285	Port Input	1	5646997	17799	1
+5	285	Response	3	5646997	17799	1
+5	286	Picture	ITI	5648018	0	1	28490	1	0	next	other	0
+5	287	Sound	test	5663259	0	1			0		other	0
+5	287	Picture	response	5676508	13249	1	13995	1	13100	25000	incorrect	658
+5	287	Port Input	2	5690361	27101	1
+5	287	Response	4	5690361	27101	1
+5	288	Picture	ITI	5691336	0	1	32322	1	0	next	other	0
+5	289	Sound	test	5709468	0	1			0		other	0
+5	289	Picture	response	5723658	14191	1	6664	1	14020	25000	incorrect	663
+5	289	Port Input	2	5730279	20811	1
+5	289	Response	4	5730279	20811	1
+5	290	Picture	ITI	5731322	0	1	31822	1	0	next	other	0
+5	291	Sound	test	5748084	0	1			0		other	0
+5	291	Picture	response	5763144	15061	1	25158	1	15000	25000	miss	0
+5	292	Picture	ITI	5788469	0	1	22825	1	0	next	other	0
+5	293	Sound	test	5801110	0	1			0		other	0
+5	293	Picture	response	5811294	10184	1	4165	1	10000	25000	incorrect	671
+5	293	Port Input	1	5815279	14169	1
+5	293	Response	3	5815279	14169	1
+5	294	Picture	ITI	5816293	0	1	23658	1	0	next	other	0
+5	295	Sound	test	5829104	0	1			0		other	0
+5	295	Picture	response	5839951	10847	1	25158	1	10700	25000	miss	0
+5	296	Picture	ITI	5865275	0	1	21492	1	0	next	other	0
+5	297	Sound	test	5875907	0	1			0		other	0
+5	297	Picture	response	5886768	10861	1	4332	1	10700	25000	incorrect	679
+5	297	Port Input	1	5891055	15148	1
+5	297	Response	3	5891055	15148	1
+5	298	Picture	ITI	5892099	0	1	27657	1	0	next	other	0
+5	299	Sound	test	5909641	0	1			0		other	0
+5	299	Picture	response	5919756	10116	1	4832	1	10000	25000	incorrect	684
+5	299	Port Input	1	5924518	14877	1
+5	299	Response	3	5924518	14877	1
+5	300	Picture	ITI	5925587	0	1	27490	1	0	next	other	0
+5	301	Sound	test	5938009	0	1			0		other	0
+5	301	Picture	response	5953078	15069	1	25158	1	15000	25000	miss	0
+5	302	Picture	ITI	5978402	0	1	29323	1	0	next	other	0
+5	303	Sound	test	5995424	0	1			0		other	0
+5	303	Picture	response	6007725	12302	1	6164	1	12250	25000	incorrect	692
+5	303	Port Input	1	6013776	18353	1
+5	303	Response	3	6013776	18353	1
+5	304	Picture	ITI	6014723	0	1	25991	1	0	next	other	0
+5	305	Sound	test	6025574	0	1			0		other	0
+5	305	Picture	response	6040714	15140	1	25158	1	15000	25000	miss	0
+5	306	Picture	ITI	6066038	0	1	25991	1	0	next	other	0
+5	307	Sound	test	6076999	0	1			0		other	0
+5	307	Picture	response	6092029	15030	1	3665	1	15000	25000	incorrect	700
+5	307	Port Input	2	6095611	18612	1
+5	307	Response	4	6095611	18612	1
+5	308	Picture	ITI	6096694	0	1	28157	1	0	next	other	0
+5	309	Sound	test	6114775	0	1			0		other	0
+5	309	Picture	response	6124851	10075	1	6498	1	10000	25000	incorrect	705
+5	309	Port Input	1	6131240	16465	1
+5	309	Response	3	6131240	16465	1
+5	310	Picture	ITI	6132348	0	1	21159	1	0	next	other	0
+5	311	Sound	test	6143370	0	1			0		other	0
+5	311	Picture	response	6153508	10138	1	8497	1	10000	25000	incorrect	710
+5	311	Port Input	1	6161892	18522	1
+5	311	Response	3	6161892	18522	1
+5	312	Picture	ITI	6162838	0	1	23992	1	0	next	other	0
+5	313	Sound	test	6174539	0	1			0		other	0
+5	313	Picture	response	6186829	12290	1	6831	1	12250	25000	incorrect	715
+5	313	Port Input	1	6193522	18983	1
+5	313	Response	3	6193522	18983	1
+5	314	Picture	ITI	6194660	0	1	23492	1	0	next	other	0
+5	315	Sound	test	6208101	0	1			0		other	0
+5	315	Picture	response	6218152	10050	1	6165	1	10000	25000	incorrect	720
+5	315	Port Input	1	6224236	16135	1
+5	315	Response	3	6224236	16135	1
+5	316	Picture	ITI	6225316	0	1	25158	1	0	next	other	0
+5	317	Sound	test	6237267	0	1			0		other	0
+5	317	Picture	response	6250474	13207	1	14162	1	13100	25000	incorrect	725
+5	317	Port Input	2	6264550	27283	1
+5	317	Response	4	6264550	27283	1
+5	318	Picture	ITI	6265635	0	1	32322	1	0	next	other	0
+5	319	Sound	test	6283836	0	1			0		other	0
+5	319	Picture	response	6297957	14121	1	6831	1	14020	25000	incorrect	730
+5	319	Port Input	2	6304739	20903	1
+5	319	Response	4	6304739	20903	1
+5	441	Picture	resume	7515363	0	1	50816	1	0	next	other	0
+5	441	Port Input	1	7564812	49449	1
+5	441	Port Input	2	7564812	49449	1
+5	441	Response	3	7564812	49449	1
+5	441	Response	4	7564812	49449	1
+5	441A	Port Input	2	7564890	77	1
+5	441A	Port Input	2	7565068	255	1
+5	441A	Port Input	1	7565068	256	1
+5	441A	Port Input	2	7565094	281	1
+5	441A	Port Input	2	7565095	282	1
+5	441A	Port Input	2	7565109	296	1
+5	441A	Port Input	2	7565109	296	1
+5	441A	Port Input	1	7565471	658	1
+5	441A	Port Input	2	7565471	658	1
+5	441A	Port Input	1	7565816	1003	1
+5	441A	Port Input	2	7565816	1003	1
+5	441A	Port Input	1	7566155	1342	1
+5	441A	Port Input	2	7566155	1342	1
+5	441A	Response	3	7566155	1342	1
+5	441A	Response	4	7566155	1342	1
+5	442	Picture	ITI	7566179	0	1	10163	1	0	next	other	0
+5	443	Picture	ITI	7576342	0	1	25824	1	0	next	other	0
+5	444	Sound	test	7592093	0	1			0		other	0
+5	444	Picture	response	7602166	10073	1	8997	1	10000	25000	incorrect	756
+5	444	Port Input	2	7611010	18917	1
+5	444	Response	4	7611010	18917	1
+5	445	Picture	ITI	7611996	0	1	24825	1	0	next	other	0
+5	446	Sound	test	7624447	0	1			0		other	0
+5	446	Picture	response	7636820	12373	1	3832	1	12250	25000	incorrect	761
+5	446	Port Input	2	7640537	16090	1
+5	446	Response	4	7640537	16090	1
+5	447	Picture	ITI	7641485	0	1	26991	1	0	next	other	0
+5	448	Sound	test	7656997	0	1			0		other	0
+5	448	Picture	response	7668476	11479	1	4498	1	11450	25000	incorrect	766
+5	448	Port Input	2	7672802	15806	1
+5	448	Response	4	7672802	15806	1
+5	449	Picture	ITI	7673807	0	1	23992	1	0	next	other	0
+5	450	Sound	test	7684519	0	1			0		other	0
+5	450	Picture	response	7697799	13280	1	6998	1	13100	25000	incorrect	771
+5	450	Port Input	2	7704641	20122	1
+5	450	Response	4	7704641	20122	1
+5	451	Picture	ITI	7705630	0	1	26324	1	0	next	other	0
+5	452	Sound	test	7720321	0	1			0		other	0
+5	452	Picture	response	7731954	11633	1	10163	1	11450	25000	incorrect	776
+5	452	Port Input	2	7741915	21594	1
+5	452	Response	4	7741915	21594	1
+5	453	Picture	ITI	7742950	0	1	23658	1	0	next	other	0
+5	454	Sound	test	7756431	0	1			0		other	0
+5	454	Picture	response	7766608	10177	1	4832	1	10000	25000	incorrect	781
+5	454	Port Input	1	7771255	14823	1
+5	454	Response	3	7771255	14823	1
+5	455	Picture	ITI	7772273	0	1	33488	1	0	next	other	0
+5	456	Sound	test	7790714	0	1			0		other	0
+5	456	Picture	response	7805761	15047	1	4332	1	15000	25000	incorrect	786
+5	456	Port Input	2	7809923	19209	1
+5	456	Response	4	7809923	19209	1
+5	457	Picture	ITI	7810926	0	1	24325	1	0	next	other	0
+5	458	Sound	test	7821047	0	1			0		other	0
+5	458	Picture	response	7835251	14204	1	3499	1	14020	25000	incorrect	791
+5	458	Port Input	2	7838649	17602	1
+5	458	Response	4	7838649	17602	1
+5	459	Picture	ITI	7839749	0	1	23159	1	0	next	other	0
+5	460	Sound	test	7852740	0	1			0		other	0
+5	460	Picture	response	7862908	10167	1	10163	1	10000	25000	incorrect	796
+5	460	Port Input	1	7872872	20131	1
+5	460	Response	3	7872872	20131	1
+5	461	Picture	ITI	7873904	0	1	26824	1	0	next	other	0
+5	462	Sound	test	7885555	0	1			0		other	0
+5	462	Picture	response	7900728	15173	1	3999	1	15000	25000	incorrect	801
+5	462	Port Input	2	7904638	19082	1
+5	462	Response	4	7904638	19082	1
+5	463	Picture	ITI	7905726	0	1	28657	1	0	next	other	0
+5	464	Sound	test	7922057	0	1			0		other	0
+5	464	Picture	response	7934383	12325	1	7331	1	12250	25000	incorrect	806
+5	464	Port Input	2	7941599	19541	1
+5	464	Response	4	7941599	19541	1
+5	465	Picture	ITI	7942713	0	1	21326	1	0	next	other	0
+5	466	Sound	test	7953314	0	1			0		other	0
+5	466	Picture	response	7964039	10725	1	13662	1	10700	25000	incorrect	811
+5	466	Port Input	1	7977602	24288	1
+5	466	Response	3	7977602	24288	1
+5	467	Picture	ITI	7978701	0	1	26491	1	0	next	other	0
+5	468	Sound	test	7992762	0	1			0		other	0
+5	468	Picture	response	8005191	12429	1	6498	1	12250	25000	incorrect	816
+5	468	Port Input	1	8011523	18761	1
+5	468	Response	3	8011523	18761	1
+5	469	Picture	ITI	8012522	0	1	23658	1	0	next	other	0
+5	470	Sound	test	8025303	0	1			0		other	0
+5	470	Picture	response	8036180	10877	1	4498	1	10700	25000	incorrect	821
+5	470	Port Input	2	8040603	15299	1
+5	470	Response	4	8040603	15299	1
+5	471	Picture	ITI	8041678	0	1	28823	1	0	next	other	0
+5	472	Sound	test	8056440	0	1			0		other	0
+5	472	Picture	response	8070502	14062	1	4332	1	14020	25000	incorrect	826
+5	472	Port Input	2	8074742	18303	1
+5	472	Response	4	8074742	18303	1
+5	473	Picture	ITI	8075833	0	1	28657	1	0	next	other	0
+5	474	Sound	test	8089314	0	1			0		other	0
+5	474	Picture	response	8104490	15175	1	3832	1	15000	25000	incorrect	831
+5	474	Port Input	2	8108164	18849	1
+5	474	Response	4	8108164	18849	1
+5	475	Picture	ITI	8109321	0	1	30323	1	0	next	other	0
+5	476	Sound	test	8128023	0	1			0		other	0
+5	476	Picture	response	8139644	11621	1	10496	1	11450	25000	incorrect	836
+5	476	Port Input	1	8149966	21944	1
+5	476	Response	3	8149966	21944	1
+5	477	Picture	ITI	8150973	0	1	29989	1	0	next	other	0
+5	478	Sound	test	8166885	0	1			0		other	0
+5	478	Picture	response	8180963	14078	1	6831	1	14020	25000	incorrect	841
+5	478	Port Input	1	8187740	20855	1
+5	478	Response	3	8187740	20855	1
+5	479	Picture	ITI	8188793	0	1	26991	1	0	next	other	0
+5	480	Sound	test	8202575	0	1			0		other	0
+5	480	Picture	response	8215784	13209	1	6498	1	13100	25000	incorrect	846
+5	480	Port Input	2	8222181	19606	1
+5	480	Response	4	8222181	19606	1
+5	481	Picture	ITI	8223281	0	1	30989	1	0	next	other	0
+5	482	Sound	test	8241033	0	1			0		other	0
+5	482	Picture	response	8254271	13238	1	7164	1	13100	25000	incorrect	851
+5	482	Port Input	2	8261360	20327	1
+5	482	Response	4	8261360	20327	1
+5	483	Picture	ITI	8262434	0	1	27990	1	0	next	other	0
+5	484	Sound	test	8277276	0	1			0		other	0
+5	484	Picture	response	8290424	13149	1	10830	1	13100	25000	incorrect	856
+5	484	Port Input	1	8301111	23836	1
+5	484	Response	3	8301111	23836	1
+5	485	Picture	ITI	8302087	0	1	26324	1	0	next	other	0
+5	486	Sound	test	8318338	0	1			0		other	0
+5	486	Picture	response	8328411	10073	1	9163	1	10000	25000	incorrect	861
+5	486	Port Input	1	8337438	19099	1
+5	486	Response	3	8337438	19099	1
+5	487	Picture	ITI	8338574	0	1	21492	1	0	next	other	0
+5	488	Sound	test	8349975	0	1			0		other	0
+5	488	Picture	response	8360067	10091	1	4832	1	10000	25000	incorrect	866
+5	488	Port Input	2	8364726	14751	1
+5	488	Response	4	8364726	14751	1
+5	489	Picture	ITI	8365898	0	1	25658	1	0	next	other	0
+5	490	Sound	test	8377489	0	1			0		other	0
+5	490	Picture	response	8391556	14066	1	4665	1	14020	25000	incorrect	871
+5	490	Port Input	1	8396169	18680	1
+5	490	Response	3	8396169	18680	1
+5	491	Picture	ITI	8397220	0	1	22325	1	0	next	other	0
+5	492	Sound	test	8407972	0	1			0		other	0
+5	492	Picture	response	8419546	11574	1	4998	1	11450	25000	incorrect	876
+5	492	Port Input	2	8424426	16455	1
+5	492	Response	4	8424426	16455	1
+5	493	Picture	ITI	8425377	0	1	33988	1	0	next	other	0
+5	494	Sound	test	8444318	0	1			0		other	0
+5	494	Picture	response	8459365	15047	1	4998	1	15000	25000	incorrect	881
+5	494	Port Input	1	8464313	19995	1
+5	494	Response	3	8464313	19995	1
+5	495	Picture	ITI	8465363	0	1	26990	1	0	next	other	0
+5	496	Sound	test	8482244	0	1			0		other	0
+5	496	Picture	response	8492354	10109	1	11496	1	10000	25000	incorrect	886
+5	496	Port Input	2	8503659	21414	1
+5	496	Response	4	8503659	21414	1
+5	497	Picture	ITI	8504683	0	1	31489	1	0	next	other	0
+5	498	Sound	test	8521994	0	1			0		other	0
+5	498	Picture	response	8536172	14178	1	4498	1	14020	25000	incorrect	891
+5	498	Port Input	1	8540526	18532	1
+5	498	Response	3	8540526	18532	1
+5	499	Picture	ITI	8541670	0	1	31489	1	0	next	other	0
+5	500	Sound	test	8559871	0	1			0		other	0
+5	500	Picture	response	8573159	13288	1	4498	1	13100	25000	incorrect	896
+5	500	Port Input	2	8577529	17658	1
+5	500	Response	4	8577529	17658	1
+5	501	Picture	ITI	8578657	0	1	25158	1	0	next	other	0
+5	502	Sound	test	8593638	0	1			0		other	0
+5	502	Picture	response	8603815	10177	1	10663	1	10000	25000	incorrect	901
+5	502	Port Input	2	8614313	20675	1
+5	502	Response	4	8614313	20675	1
+5	503	Picture	ITI	8615311	0	1	31322	1	0	next	other	0
+5	504	Sound	test	8631482	0	1			0		other	0
+5	504	Picture	response	8646633	15151	1	4498	1	15000	25000	incorrect	906
+5	504	Port Input	1	8651035	19553	1
+5	504	Response	3	8651035	19553	1
+5	505	Picture	ITI	8652131	0	1	26491	1	0	next	other	0
+5	506	Sound	test	8668572	0	1			0		other	0
+5	506	Picture	response	8678622	10049	1	4498	1	10000	25000	incorrect	911
+5	506	Port Input	1	8682978	14406	1
+5	506	Response	3	8682978	14406	1
+5	507	Picture	ITI	8683953	0	1	33988	1	0	next	other	0
+5	508	Sound	test	8702914	0	1			0		other	0
+5	508	Picture	response	8717941	15027	1	7831	1	15000	25000	incorrect	916
+5	508	Port Input	2	8725603	22689	1
+5	508	Response	4	8725603	22689	1
+5	509	Picture	ITI	8726605	0	1	30156	1	0	next	other	0
+5	510	Sound	test	8741696	0	1			0		other	0
+5	510	Picture	response	8756761	15065	1	24825	1	15000	25000	incorrect	921
+5	510	Port Input	2	8781419	39723	1
+5	510	Response	4	8781419	39723	1
+5	511	Picture	ITI	8782585	0	1	28657	1	0	next	other	0
+5	512	Sound	test	8798896	0	1			0		other	0
+5	512	Picture	response	8811242	12345	1	7331	1	12250	25000	incorrect	926
+5	512	Port Input	2	8818381	19484	1
+5	512	Response	4	8818381	19484	1
+5	513	Picture	ITI	8819406	0	1	26824	1	0	next	other	0
+5	514	Sound	test	8831087	0	1			0		other	0
+5	514	Picture	response	8846229	15143	1	3999	1	15000	25000	incorrect	931
+5	514	Port Input	2	8850094	19008	1
+5	514	Response	4	8850094	19008	1
+5	515	Picture	ITI	8851061	0	1	31156	1	0	next	other	0
+5	516	Sound	test	8869072	0	1			0		other	0
+5	516	Picture	response	8882217	13144	1	4665	1	13100	25000	incorrect	936
+5	516	Port Input	1	8886827	17754	1
+5	516	Response	3	8886827	17754	1
+5	517	Picture	ITI	8887882	0	1	27157	1	0	next	other	0
+5	518	Sound	test	8904303	0	1			0		other	0
+5	518	Picture	response	8915039	10736	1	10996	1	10700	25000	incorrect	941
+5	518	Port Input	1	8925839	21536	1
+5	518	Response	3	8925839	21536	1
+5	519	Picture	ITI	8926868	0	1	23658	1	0	next	other	0
+5	520	Sound	test	8940489	0	1			0		other	0
+5	520	Picture	response	8950526	10037	1	7164	1	10000	25000	incorrect	946
+5	520	Port Input	1	8957490	17001	1
+5	520	Response	3	8957490	17001	1
+5	521	Picture	ITI	8958523	0	1	30656	1	0	next	other	0
+5	522	Sound	test	8978415	0	1			0		other	0
+5	522	Picture	response	8989179	10764	1	25158	1	10700	25000	miss	0
+5	523	Picture	ITI	9014504	0	1	23492	1	0	next	other	0
+5	523	Port Input	2	9022719	8215	1
+5	523	Response	4	9022719	8215	1
+5	524	Sound	test	9024775	0	1			0		other	0
+5	524	Port Input	1	9028997	4222	1
+5	524	Picture	response	9037996	13221	1	3166	1	13100	25000	incorrect	957
+5	524	Port Input	2	9041022	16247	1
+5	524	Response	4	9041022	16247	1
+5	525	Picture	ITI	9042161	0	1	27824	1	0	next	other	0
+5	526	Sound	test	9059872	0	1			0		other	0
+5	526	Picture	response	9069984	10112	1	4165	1	10000	25000	incorrect	962
+5	526	Port Input	1	9073985	14113	1
+5	526	Response	3	9073985	14113	1
+5	527	Picture	ITI	9074983	0	1	30156	1	0	next	other	0
+5	528	Sound	test	9094284	0	1			0		other	0
+5	528	Picture	response	9105139	10855	1	5498	1	10700	25000	incorrect	967
+5	528	Port Input	1	9110447	16163	1
+5	528	Response	3	9110447	16163	1
+5	529	Picture	ITI	9111470	0	1	25991	1	0	next	other	0
+5	530	Sound	test	9123281	0	1			0		other	0
+5	530	Picture	response	9137461	14180	1	4832	1	14020	25000	incorrect	972
+5	530	Port Input	2	9142223	18942	1
+5	530	Response	4	9142223	18942	1
+5	531	Picture	ITI	9143292	0	1	30656	1	0	next	other	0
+5	532	Sound	test	9158923	0	1			0		other	0
+5	532	Picture	response	9173948	15025	1	4332	1	15000	25000	incorrect	977
+5	532	Port Input	1	9178185	19262	1
+5	532	Response	3	9178185	19262	1
+5	533	Picture	ITI	9179279	0	1	26324	1	0	next	other	0
+5	534	Sound	test	9190471	0	1			0		other	0
+5	534	Picture	response	9205603	15133	1	7331	1	15000	25000	incorrect	982
+5	534	Port Input	2	9212876	22406	1
+5	534	Response	4	9212876	22406	1
+5	535	Picture	ITI	9213934	0	1	29323	1	0	next	other	0
+5	536	Sound	test	9232445	0	2			0		other	0
+5	536	Picture	response	9243257	10812	1	14162	1	10700	25000	incorrect	987
+5	536	Port Input	1	9257334	24889	1
+5	536	Response	3	9257334	24889	1
+5	537	Picture	ITI	9258418	0	1	32489	1	0	next	other	0
+5	538	Sound	test	9277729	0	1			0		other	0
+5	538	Picture	response	9290907	13177	1	9830	1	13100	25000	incorrect	992
+5	538	Port Input	2	9300542	22812	1
+5	538	Response	4	9300542	22812	1
+5	539	Picture	ITI	9301570	0	1	24325	1	0	next	other	0
+5	540	Sound	test	9315861	0	1			0		other	0
+5	540	Picture	response	9325895	10034	1	8997	1	10000	25000	incorrect	997
+5	540	Port Input	1	9334827	18966	1
+5	540	Response	3	9334827	18966	1
+5	541	Picture	ITI	9335891	0	1	29990	1	0	next	other	0
+5	542	Sound	test	9355002	0	1			0		other	0
+5	542	Picture	response	9365881	10878	1	7997	1	10700	25000	incorrect	1002
+5	542	Port Input	1	9373808	18806	1
+5	542	Response	3	9373808	18806	1
+5	543	Picture	ITI	9374877	0	1	31322	1	0	next	other	0
+5	544	Sound	test	9391989	0	1			0		other	0
+5	544	Picture	response	9406200	14211	1	4165	1	14020	25000	incorrect	1007
+5	544	Port Input	2	9410218	18229	1
+5	544	Response	4	9410218	18229	1
+5	545	Picture	ITI	9411365	0	1	28323	1	0	next	other	0
+5	546	Sound	test	9428856	0	1			0		other	0
+5	546	Picture	response	9439688	10832	1	25158	1	10700	25000	miss	0
+5	547	Picture	ITI	9465012	0	1	31822	1	0	next	other	0
+5	548	Sound	test	9483674	0	1			0		other	0
+5	548	Picture	response	9496835	13161	1	3499	1	13100	25000	incorrect	1015
+5	548	Port Input	2	9500268	16594	1
+5	548	Response	4	9500268	16594	1
+5	549	Picture	ITI	9501333	0	1	28490	1	0	next	other	0
+5	550	Sound	test	9518944	0	1			0		other	0
+5	550	Picture	response	9529823	10879	1	11996	1	10700	25000	incorrect	1020
+5	550	Port Input	1	9541685	22741	1
+5	550	Response	3	9541685	22741	1
+5	551	Picture	ITI	9542652	0	1	29323	1	0	next	other	0
+5	552	Sound	test	9556923	0	1			0		other	0
+5	552	Picture	response	9571975	15052	1	3999	1	15000	25000	incorrect	1025
+5	552	Port Input	2	9575783	18860	1
+5	552	Response	4	9575783	18860	1
+5	553	Picture	ITI	9576806	0	1	23825	1	0	next	other	0
+5	554	Sound	test	9588238	0	1			0		other	0
+5	554	Picture	response	9600631	12393	1	4165	1	12250	25000	incorrect	1030
+5	554	Port Input	2	9604634	16396	1
+5	554	Response	4	9604634	16396	1
+5	555	Picture	ITI	9605630	0	1	33988	1	0	next	other	0
+5	556	Sound	test	9625411	0	1			0		other	0
+5	556	Picture	response	9639618	14207	1	4332	1	14020	25000	incorrect	1035
+5	556	Port Input	2	9643885	18474	1
+5	556	Response	4	9643885	18474	1
+5	557	Picture	ITI	9644949	0	1	29656	1	0	next	other	0
+5	558	Sound	test	9663070	0	1			0		other	0
+5	558	Picture	response	9674605	11535	1	14328	1	11450	25000	incorrect	1040
+5	558	Port Input	2	9688739	25668	1
+5	558	Response	4	9688739	25668	1
+5	559	Picture	ITI	9689767	0	1	31656	1	0	next	other	0
+5	560	Sound	test	9706308	0	1			0		other	0
+5	560	Picture	response	9721422	15114	1	5331	1	15000	25000	incorrect	1045
+5	560	Port Input	2	9726668	20360	1
+5	560	Response	4	9726668	20360	1
+5	561	Picture	ITI	9727754	0	1	23492	1	0	next	other	0
+5	562	Sound	test	9739675	0	1			0		other	0
+5	562	Picture	response	9751245	11570	1	12329	1	11450	25000	incorrect	1050
+5	562	Port Input	1	9763515	23840	1
+5	562	Response	3	9763515	23840	1
+5	563	Picture	ITI	9764574	0	1	25491	1	0	next	other	0
+5	564	Sound	test	9776775	0	1			0		other	0
+5	564	Picture	response	9790065	13290	1	7164	1	13100	25000	incorrect	1055
+5	564	Port Input	1	9797154	20379	1
+5	564	Response	3	9797154	20379	1
+5	565	Picture	ITI	9798229	0	1	23825	1	0	next	other	0
+5	566	Sound	test	9809770	0	1			0		other	0
+5	566	Picture	response	9822054	12284	1	25158	1	12250	25000	miss	0
+5	567	Picture	ITI	9847378	0	1	24325	1	0	next	other	0
+5	567	Port Input	1	9853398	6020	1
+5	567	Response	3	9853398	6020	1
+5	568	Sound	test	9857589	0	1			0		other	0
+5	568	Port Input	1	9857604	15	1
+5	568	Picture	response	9871703	14114	1	3166	1	14020	25000	incorrect	1066
+5	568	Port Input	2	9874679	17090	1
+5	568	Response	4	9874679	17090	1
+5	569	Picture	ITI	9875702	0	1	24825	1	0	next	other	0
+5	570	Sound	test	9889773	0	1			0		other	0
+5	570	Picture	response	9900526	10753	1	8997	1	10700	25000	incorrect	1071
+5	570	Port Input	1	9909444	19671	1
+5	570	Response	3	9909444	19671	1
+5	571	Picture	ITI	9910523	0	1	28990	1	0	next	other	0
+5	572	Sound	test	9927134	0	1			0		other	0
+5	572	Picture	response	9939513	12379	1	25158	1	12250	25000	miss	0
+5	573	Picture	ITI	9964837	0	1	20160	1	0	next	other	0
+5	574	Sound	test	9974838	0	1			0		other	0
+5	574	Picture	response	9984997	10158	1	7997	1	10000	25000	incorrect	1079
+5	574	Port Input	1	9992924	18086	1
+5	574	Response	3	9992924	18086	1
+5	575	Picture	ITI	9993993	0	1	25324	1	0	next	other	0
+5	576	Sound	test	10006115	0	1			0		other	0
+5	576	Picture	response	10019318	13203	1	3999	1	13100	25000	incorrect	1084
+5	576	Port Input	2	10023118	17003	1
+5	576	Response	4	10023118	17003	1
+5	577	Picture	ITI	10024150	0	1	33488	1	0	next	other	0
+5	578	Sound	test	10042611	0	1			0		other	0
+5	578	Picture	response	10057638	15027	1	4498	1	15000	25000	incorrect	1089
+5	578	Port Input	2	10062078	19467	1
+5	578	Response	4	10062078	19467	1
+5	579	Picture	ITI	10063136	0	1	27824	1	0	next	other	0
+5	580	Sound	test	10075827	0	1			0		other	0
+5	580	Picture	response	10090959	15132	1	25158	1	15000	25000	miss	0
+5	581	Picture	ITI	10116284	0	1	23159	1	0	next	other	0
+5	582	Sound	test	10127895	0	1			0		other	0
+5	582	Picture	response	10139442	11547	1	3665	1	11450	25000	incorrect	1097
+5	582	Port Input	2	10143028	15133	1
+5	582	Response	4	10143028	15133	1
+5	583	Picture	ITI	10144107	0	1	32988	1	0	next	other	0
+5	584	Sound	test	10162059	0	1			0		other	0
+5	584	Picture	response	10177096	15037	1	25158	1	15000	25000	miss	0
+5	585	Picture	ITI	10202420	0	1	27490	1	0	next	other	0
+5	586	Sound	test	10219812	0	1			0		other	0
+5	586	Picture	response	10229911	10099	1	7331	1	10000	25000	incorrect	1105
+5	586	Port Input	1	10237086	17275	1
+5	586	Response	3	10237086	17275	1
+5	587	Picture	ITI	10238075	0	1	21326	1	0	next	other	0
+5	588	Sound	test	10248666	0	1			0		other	0
+5	588	Picture	response	10259400	10735	1	3832	1	10700	25000	incorrect	1110
+5	588	Port Input	1	10263063	14398	1
+5	588	Response	3	10263063	14398	1
+5	589	Picture	ITI	10264065	0	1	26657	1	0	next	other	0
+5	590	Sound	test	10279897	0	1			0		other	0
+5	590	Picture	response	10290723	10826	1	25158	1	10700	25000	miss	0
+5	591	Picture	ITI	10316047	0	1	24991	1	0	next	other	0
+5	592	Sound	test	10329448	0	1			0		other	0
+5	592	Picture	response	10341038	11590	1	9996	1	11450	25000	incorrect	1118
+5	592	Port Input	1	10350958	21510	1
+5	592	Response	3	10350958	21510	1
+5	593	Picture	ITI	10352035	0	1	30989	1	0	next	other	0
+5	594	Sound	test	10369746	0	1			0		other	0
+5	594	Picture	response	10383024	13278	1	6498	1	13100	25000	incorrect	1123
+5	594	Port Input	2	10389460	19714	1
+5	594	Response	4	10389460	19714	1
+5	595	Picture	ITI	10390521	0	1	25824	1	0	next	other	0
+5	596	Sound	test	10406202	0	1			0		other	0
+5	596	Picture	response	10416345	10143	1	8997	1	10000	25000	incorrect	1128
+5	596	Port Input	1	10425203	19001	1
+5	596	Response	3	10425203	19001	1
+5	597	Picture	ITI	10426342	0	1	30156	1	0	next	other	0
+5	598	Sound	test	10442343	0	1			0		other	0
+5	598	Picture	response	10456498	14155	1	4498	1	14020	25000	incorrect	1133
+5	598	Port Input	2	10460821	18478	1
+5	598	Response	4	10460821	18478	1
+5	599	Picture	ITI	10461829	0	1	26657	1	0	next	other	0
+5	600	Sound	test	10478381	0	1			0		other	0
+5	600	Picture	response	10488487	10106	1	9497	1	10000	25000	incorrect	1138
+5	600	Port Input	1	10497783	19402	1
+5	600	Response	3	10497783	19402	1
+5	601	Picture	ITI	10498816	0	1	30489	1	0	next	other	0
+5	602	Sound	test	10518438	0	1			0		other	0
+5	602	Picture	response	10529306	10868	1	4665	1	10700	25000	incorrect	1143
+5	602	Port Input	1	10533921	15484	1
+5	602	Response	3	10533921	15484	1
+5	603	Picture	ITI	10534970	0	1	27324	1	0	next	other	0
+5	604	Sound	test	10549932	0	1			0		other	0
+5	604	Picture	response	10562294	12363	1	5998	1	12250	25000	incorrect	1148
+5	604	Port Input	2	10568217	18285	1
+5	604	Response	4	10568217	18285	1
+5	605	Picture	ITI	10569292	0	1	26157	1	0	next	other	0
+5	606	Sound	test	10583093	0	1			0		other	0
+5	606	Picture	response	10595449	12356	1	6165	1	12250	25000	incorrect	1153
+5	606	Port Input	1	10601472	18379	1
+5	606	Response	3	10601472	18379	1
+5	607	Picture	ITI	10602447	0	1	29823	1	0	next	other	0
+5	608	Sound	test	10618158	0	1			0		other	0
+5	608	Picture	response	10632270	14112	1	3665	1	14020	25000	incorrect	1158
+5	608	Port Input	2	10635788	17630	1
+5	608	Response	4	10635788	17630	1
+5	609	Picture	ITI	10636935	0	1	26491	1	0	next	other	0
+5	610	Sound	test	10651906	0	1			0		other	0
+5	610	Picture	response	10663425	11520	1	12162	1	11450	25000	incorrect	1163
+5	610	Port Input	1	10675488	23582	1
+5	610	Response	3	10675488	23582	1
+5	611	Picture	ITI	10676587	0	1	29989	1	0	next	other	0
+5	612	Sound	test	10696389	0	1			0		other	0
+5	612	Picture	response	10706577	10188	1	5165	1	10000	25000	incorrect	1168
+5	612	Port Input	1	10711627	15238	1
+5	612	Response	3	10711627	15238	1
+5	613	Picture	ITI	10712741	0	1	28490	1	0	next	other	0
+5	614	Sound	test	10726123	0	1			0		other	0
+5	614	Picture	response	10741231	15109	1	12162	1	15000	25000	incorrect	1173
+5	614	Port Input	2	10753294	27171	1
+5	614	Response	4	10753294	27171	1
+5	615	Picture	ITI	10754393	0	1	30822	1	0	next	other	0
+5	616	Sound	test	10771995	0	1			0		other	0
+5	616	Picture	response	10785216	13221	1	25158	1	13100	25000	miss	0
+5	617	Picture	ITI	10810540	0	1	31489	1	0	next	other	0
+5	618	Sound	test	10827972	0	1			0		other	0
+5	618	Picture	response	10842029	14058	1	1999	1	14020	25000	incorrect	1181
+5	618	Port Input	2	10843906	15934	1
+5	618	Response	4	10843906	15934	1
+5	619	Picture	ITI	10845028	0	1	32322	1	0	next	other	0
+5	620	Sound	test	10864999	0	1			0		other	0
+5	620	Picture	response	10877350	12351	1	25158	1	12250	25000	miss	0
+5	621	Picture	ITI	10902675	0	1	27157	1	0	next	other	0
+5	622	Sound	test	10915676	0	1			0		other	0
+5	622	Picture	response	10929832	14156	1	3665	1	14020	25000	incorrect	1189
+5	622	Port Input	2	10933373	17697	1
+5	622	Response	4	10933373	17697	1
+5	623	Picture	ITI	10934330	0	1	30656	1	0	next	other	0
+5	624	Sound	test	10953481	0	1			0		other	0
+5	624	Picture	response	10964986	11505	1	4332	1	11450	25000	incorrect	1194
+5	624	Port Input	1	10969251	15770	1
+5	624	Response	3	10969251	15770	1
+5	625	Picture	ITI	10970318	0	1	33155	1	0	next	other	0
+5	626	Sound	test	10988309	0	1			0		other	0
+5	626	Picture	response	11003473	15163	1	3665	1	15000	25000	incorrect	1199
+5	626	Port Input	2	11006962	18653	1
+5	626	Response	4	11006962	18653	1
+5	627	Picture	ITI	11007971	0	1	31656	1	0	next	other	0
+5	628	Sound	test	11027272	0	1			0		other	0
+5	628	Picture	response	11039627	12354	1	19493	1	12250	25000	incorrect	1204
+5	628	Port Input	1	11058968	31696	1
+5	628	Response	3	11058968	31696	1
+5	629	Picture	ITI	11059953	0	1	22492	1	0	next	other	0
+5	630	Sound	test	11070814	0	1			0		other	0
+5	630	Picture	response	11082445	11631	1	9163	1	11450	25000	incorrect	1209
+5	630	Port Input	2	11091515	20701	1
+5	630	Response	4	11091515	20701	1
+5	631	Picture	ITI	11092608	0	1	23325	1	0	next	other	0
+5	632	Sound	test	11103639	0	1			0		other	0
+5	632	Picture	response	11115933	12294	1	6664	1	12250	25000	incorrect	1214
+5	632	Port Input	1	11122427	18788	1
+5	632	Response	3	11122427	18788	1
+5	633	Picture	ITI	11123431	0	1	25491	1	0	next	other	0
+5	634	Sound	test	11135782	0	1			0		other	0
+5	634	Picture	response	11148922	13140	1	25158	1	13100	25000	miss	0
+5	635	Picture	ITI	11174246	0	1	25324	1	0	next	other	0
+5	636	Sound	test	11184437	0	1			0		other	0
+5	636	Picture	response	11199570	15133	1	4498	1	15000	25000	incorrect	1222
+5	636	Port Input	2	11203887	19450	1
+5	636	Response	4	11203887	19450	1
+5	637	Picture	ITI	11204902	0	1	28490	1	0	next	other	0
+5	638	Sound	test	11219283	0	1			0		other	0
+5	638	Picture	response	11233392	14109	1	25158	1	14020	25000	miss	0
+5	639	Picture	ITI	11258716	0	1	27490	1	0	next	other	0
+5	639	Port Input	1	11258798	82	1
+5	639	Response	3	11258798	82	1
+5	639	Port Input	1	11263806	5090	1
+5	639	Response	3	11263806	5090	1
+5	639	Port Input	2	11270261	11545	1
+5	639	Response	4	11270261	11545	1
+5	640	Sound	test	11271178	0	1			0		other	0
+5	640	Picture	response	11286207	15029	1	3665	1	15000	25000	incorrect	1236
+5	640	Port Input	2	11289741	18564	1
+5	640	Response	4	11289741	18564	1
+5	641	Picture	ITI	11290705	0	1	21326	1	0	next	other	0
+5	642	Sound	test	11301966	0	1			0		other	0
+5	642	Picture	response	11312031	10065	1	6498	1	10000	25000	incorrect	1241
+5	642	Port Input	1	11318488	16521	1
+5	642	Response	3	11318488	16521	1
+5	643	Picture	ITI	11319528	0	1	24491	1	0	next	other	0
+5	644	Sound	test	11329830	0	1			0		other	0
+5	644	Picture	response	11344020	14190	1	4498	1	14020	25000	incorrect	1246
+5	644	Port Input	1	11348452	18623	1
+5	644	Response	3	11348452	18623	1
+5	645	Picture	ITI	11349518	0	1	22825	1	0	next	other	0
+5	646	Sound	test	11361549	0	1			0		other	0
+5	646	Picture	response	11372343	10794	1	3999	1	10700	25000	incorrect	1251
+5	646	Port Input	1	11376272	14723	1
+5	646	Response	3	11376272	14723	1
+5	647	Picture	ITI	11377341	0	1	24158	1	0	next	other	0
+5	648	Sound	test	11389063	0	1			0		other	0
+5	648	Picture	response	11401500	12437	1	5498	1	12250	25000	incorrect	1256
+5	648	Port Input	2	11406861	17799	1
+5	648	Response	4	11406861	17799	1
+5	649	Picture	ITI	11407831	0	1	28490	1	0	next	other	0
+5	650	Sound	test	11426252	0	1			0		other	0
+5	650	Picture	response	11436321	10069	1	5498	1	10000	25000	incorrect	1261
+5	650	Port Input	1	11441730	15478	1
+5	650	Response	3	11441730	15478	1
+5	651	Picture	ITI	11442818	0	1	28323	1	0	next	other	0
+5	652	Sound	test	11461100	0	1			0		other	0
+5	652	Picture	response	11471142	10042	1	25158	1	10000	25000	miss	0
+5	653	Picture	ITI	11496466	0	1	25324	1	0	next	other	0
+5	654	Sound	test	11510188	0	1			0		other	0
+5	654	Picture	response	11521791	11603	1	4665	1	11450	25000	incorrect	1269
+5	654	Port Input	2	11526314	16126	1
+5	654	Response	4	11526314	16126	1
+5	655	Picture	ITI	11527289	0	1	34488	1	0	next	other	0
+5	656	Sound	test	11546620	0	1			0		other	0
+5	656	Picture	response	11561777	15157	1	4332	1	15000	25000	incorrect	1274
+5	656	Port Input	2	11565930	19310	1
+5	656	Response	4	11565930	19310	1
+5	657	Picture	ITI	11566942	0	1	22992	1	0	next	other	0
+5	658	Sound	test	11579123	0	1			0		other	0
+5	658	Picture	response	11589934	10811	1	20659	1	10700	25000	incorrect	1279
+5	658	Port Input	1	11610544	31421	1
+5	658	Response	3	11610544	31421	1
+5	659	Picture	ITI	11611593	0	1	31156	1	0	next	other	0
+5	660	Sound	test	11630424	0	1			0		other	0
+5	660	Picture	response	11642748	12325	1	25158	1	12250	25000	miss	0
+5	661	Picture	ITI	11668073	0	1	30823	1	0	next	other	0
+5	661	Port Input	1	11671129	3056	1
+5	661	Response	3	11671129	3056	1
+5	661	Port Input	2	11676647	8574	1
+5	661	Response	4	11676647	8574	1
+5	662	Sound	test	11686534	0	1			0		other	0
+5	662	Picture	response	11698895	12361	1	3166	1	12250	25000	incorrect	1291
+5	662	Port Input	2	11701947	15413	1
+5	662	Response	4	11701947	15413	1
+5	663	Picture	ITI	11702894	0	1	20326	1	0	next	other	0
+5	664	Sound	test	11713045	0	1			0		other	0
+5	664	Picture	response	11723220	10175	1	4665	1	10000	25000	incorrect	1296
+5	664	Port Input	1	11727685	14639	1
+5	664	Response	3	11727685	14639	1
+5	665	Picture	ITI	11728718	0	1	27324	1	0	next	other	0
+5	666	Sound	test	11744469	0	1			0		other	0
+5	666	Picture	response	11756042	11573	1	3999	1	11450	25000	incorrect	1301
+5	666	Port Input	2	11759898	15429	1
+5	666	Response	4	11759898	15429	1
+5	667	Picture	ITI	11761040	0	1	26158	1	0	next	other	0
+5	668	Sound	test	11773971	0	1			0		other	0
+5	668	Picture	response	11787198	13226	1	4998	1	13100	25000	incorrect	1306
+5	668	Port Input	2	11791997	18026	1
+5	668	Response	4	11791997	18026	1
+5	669	Picture	ITI	11793029	0	1	27824	1	0	next	other	0
+5	670	Sound	test	11809370	0	1			0		other	0
+5	670	Picture	response	11820853	11482	1	4165	1	11450	25000	incorrect	1311
+5	670	Port Input	2	11824919	15548	1
+5	670	Response	4	11824919	15548	1
+5	671	Picture	ITI	11826017	0	1	29323	1	0	next	other	0
+5	672	Sound	test	11843799	0	1			0		other	0
+5	672	Picture	response	11855340	11541	1	3999	1	11450	25000	incorrect	1316
+5	672	Port Input	2	11859298	15499	1
+5	672	Response	4	11859298	15499	1
+5	673	Picture	ITI	11860339	0	1	20160	1	0	next	other	0
+5	674	Picture	Instruction	11880498	0	1	698414	1	0	next	other	0
+5	674	Port Input	1	12069892	189394	1
+5	674	Port Input	2	12069892	189394	1
+5	674	Response	3	12069892	189394	1
+5	674	Response	4	12069892	189394	1
+5	674	Port Input	2	12069893	189395	1
+5	674	Response	4	12069893	189395	1
+5	674	Port Input	2	12069896	189398	1
+5	674	Response	4	12069896	189398	1
+5	674	Port Input	1	12069906	189407	1
+5	674	Port Input	2	12069906	189407	1
+5	674	Response	3	12069906	189407	1
+5	674	Response	4	12069906	189407	1
+5	674	Port Input	1	12069906	189408	1
+5	674	Port Input	2	12069906	189408	1
+5	674	Response	3	12069906	189408	1
+5	674	Response	4	12069906	189408	1
+5	674	Port Input	1	12069907	189408	1
+5	674	Port Input	2	12069907	189408	1
+5	674	Response	3	12069907	189408	1
+5	674	Response	4	12069907	189408	1
+5	674	Port Input	1	12069907	189408	1
+5	674	Port Input	2	12069907	189408	1
+5	674	Response	3	12069907	189408	1
+5	674	Response	4	12069907	189408	1
+5	674	Port Input	1	12069907	189409	1
+5	674	Port Input	2	12069907	189409	1
+5	674	Response	3	12069907	189409	1
+5	674	Response	4	12069907	189409	1
+5	674	Port Input	2	12069913	189415	1
+5	674	Response	4	12069913	189415	1
+5	674	Port Input	2	12069913	189415	1
+5	674	Response	4	12069913	189415	1
+5	674	Port Input	1	12069918	189419	1
+5	674	Port Input	2	12069918	189419	1
+5	674	Response	3	12069918	189419	1
+5	674	Response	4	12069918	189419	1
+5	674	Port Input	1	12069920	189421	1
+5	674	Port Input	2	12069920	189421	1
+5	674	Response	3	12069920	189421	1
+5	674	Response	4	12069920	189421	1
+5	674	Port Input	1	12069924	189426	1
+5	674	Port Input	2	12069924	189426	1
+5	674	Response	3	12069924	189426	1
+5	674	Response	4	12069924	189426	1
+5	674	Port Input	2	12069929	189431	1
+5	674	Response	4	12069929	189431	1
+5	674	Port Input	2	12069938	189440	1
+5	674	Response	4	12069938	189440	1
+5	674	Port Input	2	12069938	189440	1
+5	674	Response	4	12069938	189440	1
+5	674	Port Input	2	12069940	189442	1
+5	674	Response	4	12069940	189442	1
+5	674	Port Input	2	12069940	189442	1
+5	674	Response	4	12069940	189442	1
+5	674	Port Input	2	12069951	189453	1
+5	674	Response	4	12069951	189453	1
+5	674	Port Input	2	12069953	189454	1
+5	674	Response	4	12069953	189454	1
+5	674	Port Input	2	12069955	189456	1
+5	674	Response	4	12069955	189456	1
+5	674	Port Input	2	12069955	189456	1
+5	674	Response	4	12069955	189456	1
+5	674	Port Input	2	12069955	189457	1
+5	674	Response	4	12069955	189457	1
+5	674	Port Input	2	12070381	189883	1
+5	674	Response	4	12070381	189883	1
+5	674	Port Input	2	12070381	189883	1
+5	674	Response	4	12070381	189883	1
+5	674	Port Input	2	12070382	189884	1
+5	674	Response	4	12070382	189884	1
+5	674	Port Input	2	12070382	189884	1
+5	674	Response	4	12070382	189884	1
+5	674	Port Input	2	12070383	189885	1
+5	674	Response	4	12070383	189885	1
+5	674	Port Input	2	12070384	189886	1
+5	674	Response	4	12070384	189886	1
+5	674	Port Input	2	12070391	189892	1
+5	674	Response	4	12070391	189892	1
+5	674	Port Input	2	12070391	189893	1
+5	674	Response	4	12070391	189893	1
+5	674	Port Input	2	12070393	189894	1
+5	674	Response	4	12070393	189894	1
+5	674	Port Input	2	12070395	189896	1
+5	674	Response	4	12070395	189896	1
+5	674	Quit		12573697	693199	NA
+
+
+{
+   "app": "Presentation Version 20.2 Build 07.25.18",
+   "device": "LENOVO 10A8S1PC00",
+   "experiment": "{772213B2-5F0F-4A35-9C2F-36954700C7EA}",
+   "os": "Windows 7 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "Timing Task with Dynanometer.sce",
+   "subject": "5",
+   "timestamp": "2019/03/15 07:54:56 GMT"
+}

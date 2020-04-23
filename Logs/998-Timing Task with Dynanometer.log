@@ -1,0 +1,230 @@
+Scenario - Timing Task
+Logfile written - 03/07/2019 08:54:33
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+998	1	Picture	Instruction	500	0	1	57480	1	0	next	other	0
+998	1	Response	1	52791	52291	0
+998	2	Picture	ITI	57980	0	1	10496	1	0	next	other	0
+998	3	Sound	Stimuli	67996	0	393			0		other	0
+998	4	Picture	Feedback	98300	0	1	20160	1	0	next	other	0
+998	5	Picture	ITI	118459	0	1	10163	1	0	next	other	0
+998	6	Sound	Stimuli	128461	0	1			0		other	0
+998	7	Picture	Feedback	163611	0	1	20160	2	0	next	other	0
+998	8	Picture	ITI	183770	0	1	10163	1	0	next	other	0
+998	9	Sound	Stimuli	193772	0	1			0		other	0
+998	10	Picture	Feedback	223923	0	1	20160	1	0	next	other	0
+998	11	Picture	ITI	244083	0	1	10163	1	0	next	other	0
+998	12	Sound	Stimuli	254084	0	1			0		other	0
+998	13	Picture	Feedback	289234	0	1	20160	1	0	next	other	0
+998	14	Picture	ITI	309394	0	1	10163	1	0	next	other	0
+998	15	Sound	Stimuli	319395	0	1			0		other	0
+998	16	Picture	Feedback	349547	0	1	20160	1	0	next	other	0
+998	17	Picture	ITI	369707	0	1	10163	1	0	next	other	0
+998	18	Sound	Stimuli	379708	0	2			0		other	0
+998	19	Picture	Feedback	414692	0	1	20160	1	0	next	other	0
+998	20	Picture	ITI	434851	0	1	10163	1	0	next	other	0
+998	21	Sound	Stimuli	444852	0	1			0		other	0
+998	22	Picture	Feedback	475004	0	1	20160	1	0	next	other	0
+998	23	Picture	ITI	495164	0	1	10163	1	0	next	other	0
+998	24	Sound	Stimuli	505165	0	1			0		other	0
+998	25	Picture	Feedback	540315	0	1	20160	1	0	next	other	0
+998	26	Picture	ITI	560475	0	1	10163	1	0	next	other	0
+998	27	Sound	Stimuli	570476	0	1			0		other	0
+998	28	Picture	Feedback	600628	0	1	20160	1	0	next	other	0
+998	29	Picture	ITI	620788	0	1	10163	1	0	next	other	0
+998	30	Sound	Stimuli	630789	0	1			0		other	0
+998	31	Picture	Feedback	665939	0	1	20160	1	0	next	other	0
+998	32	Picture	End_Block	686099	0	1	31489	1	0	next	other	0
+998	32	Response	1	717503	31404	0
+998	33	Picture	ITI	717588	0	1	10163	1	0	next	other	0
+998	34	Picture	Break	727751	0	1	29490	1	0	next	other	0
+998	34	Response	1	757102	29351	0
+998	35	Picture	ITI	757241	0	1	10163	1	0	next	other	0
+998	36	Picture	Instruction	767404	0	1	227256	1	0	next	other	0
+998	36	Response	1	989499	222095	0
+998	37	Picture	ITI	994660	0	1	34655	1	0	next	other	0
+998	38	Sound	Practice	1014232	0	1			0		other	0
+998	38	Picture	response	1029315	15083	1	16828	1	15000	25000	hit	45
+998	38	Port Input	1	1045983	31752	1
+998	38	Response	3	1045983	31752	1
+998	39	Picture	ITI	1056139	0	1	31823	1	0	next	other	0
+998	40	Sound	Practice	1072770	0	1			0		other	0
+998	40	Picture	response	1087962	15191	1	22492	1	15000	25000	hit	50
+998	40	Port Input	1	1110348	37577	1
+998	40	Response	3	1110348	37577	1
+998	41	Picture	ITI	1120451	0	1	23992	1	0	next	other	0
+998	42	Sound	Practice	1134322	0	1			0		other	0
+998	42	Picture	response	1144442	10120	1	19660	1	10000	25000	hit	55
+998	42	Port Input	2	1163916	29594	1
+998	42	Response	4	1163916	29594	1
+998	43	Picture	ITI	1174099	0	1	22159	1	0	next	other	0
+998	44	Sound	Practice	1186220	0	1			0		other	0
+998	44	Picture	response	1196258	10037	1	10496	1	10000	25000	hit	60
+998	44	Port Input	2	1206687	20466	1
+998	44	Response	4	1206687	20466	1
+998	45	Picture	ITI	1216751	0	1	32156	1	0	next	other	0
+998	46	Sound	Practice	1233762	0	1			0		other	0
+998	46	Picture	response	1248907	15144	1	4832	1	15000	25000	hit	65
+998	46	Port Input	1	1253581	19818	1
+998	46	Response	3	1253581	19818	1
+998	47	Picture	ITI	1263735	0	1	28324	1	0	next	other	0
+998	48	Sound	Practice	1281896	0	1			0		other	0
+998	48	Picture	response	1292059	10162	1	20993	1	10000	25000	hit	70
+998	48	Port Input	2	1313000	31103	1
+998	48	Response	4	1313000	31103	1
+998	49	Picture	ITI	1323048	0	1	27824	1	0	next	other	0
+998	50	Sound	Practice	1340799	0	1			0		other	0
+998	50	Picture	response	1350872	10072	1	16494	1	10000	25000	hit	75
+998	50	Port Input	2	1367265	26466	1
+998	50	Response	4	1367265	26466	1
+998	51	Picture	ITI	1377363	0	1	27324	1	0	next	other	0
+998	52	Sound	Practice	1394534	0	1			0		other	0
+998	52	Picture	response	1404687	10153	1	15661	1	10000	25000	hit	80
+998	52	Port Input	2	1420156	25622	1
+998	52	Response	4	1420156	25622	1
+998	53	Picture	ITI	1430345	0	1	27657	1	0	next	other	0
+998	54	Sound	Practice	1447966	0	1			0		other	0
+998	54	Picture	response	1458002	10036	1	5332	1	10000	25000	hit	85
+998	54	Port Input	2	1463187	15221	1
+998	54	Response	4	1463187	15221	1
+998	55	Picture	ITI	1473330	0	1	28657	1	0	next	other	0
+998	56	Sound	Practice	1491851	0	1			0		other	0
+998	56	Picture	response	1501987	10135	1	9164	1	10000	25000	hit	90
+998	56	Port Input	2	1511018	19167	1
+998	56	Response	4	1511018	19167	1
+998	57	Picture	ITI	1521147	0	1	21993	1	0	next	other	0
+998	58	Sound	Practice	1533098	0	1			0		other	0
+998	58	Picture	response	1543139	10041	1	5331	1	10000	25000	hit	95
+998	58	Port Input	2	1548271	15173	1
+998	58	Response	4	1548271	15173	1
+998	59	Picture	ITI	1558301	0	1	27824	1	0	next	other	0
+998	60	Sound	Practice	1575992	0	1			0		other	0
+998	60	Picture	response	1586125	10132	1	3832	1	10000	25000	hit	100
+998	60	Port Input	2	1589772	13780	1
+998	60	Response	4	1589772	13780	1
+998	61	Picture	ITI	1599953	0	1	30156	1	0	next	other	0
+998	62	Sound	Practice	1619935	0	1			0		other	0
+998	62	Picture	response	1630110	10175	1	3499	1	10000	25000	hit	105
+998	62	Port Input	2	1633511	13576	1
+998	62	Response	4	1633511	13576	1
+998	63	Picture	ITI	1643605	0	1	29157	1	0	next	other	0
+998	64	Sound	Practice	1662717	0	1			0		other	0
+998	64	Picture	response	1672762	10045	1	5498	1	10000	25000	hit	110
+998	64	Port Input	2	1678094	15377	1
+998	64	Response	4	1678094	15377	1
+998	65	Picture	ITI	1688257	0	1	24492	1	0	next	other	0
+998	66	Sound	Practice	1702608	0	1			0		other	0
+998	66	Picture	response	1712748	10140	1	4498	1	10000	25000	hit	115
+998	66	Port Input	2	1717064	14456	1
+998	66	Response	4	1717064	14456	1
+998	67	Picture	ITI	1727243	0	1	28657	1	0	next	other	0
+998	68	Sound	Practice	1740725	0	1			0		other	0
+998	68	Picture	response	1755900	15175	1	5998	1	15000	25000	hit	120
+998	68	Port Input	1	1761845	21120	1
+998	68	Response	3	1761845	21120	1
+998	69	Picture	ITI	1771895	0	1	20326	1	0	next	other	0
+998	70	Sound	Practice	1782106	0	1			0		other	0
+998	70	Picture	response	1792221	10115	1	12163	1	10000	25000	incorrect	125
+998	70	Port Input	1	1804272	22166	1
+998	70	Response	3	1804272	22166	1
+998	71	Picture	ITI	1814380	0	1	30823	1	0	next	other	0
+998	72	Sound	Practice	1830122	0	1			0		other	0
+998	72	Picture	response	1845203	15081	1	3832	1	15000	25000	hit	130
+998	72	Port Input	1	1848938	18816	1
+998	72	Response	3	1848938	18816	1
+998	73	Picture	ITI	1859032	0	1	26491	1	0	next	other	0
+998	74	Sound	Practice	1870463	0	1			0		other	0
+998	74	Picture	response	1885522	15060	1	3332	1	15000	25000	hit	135
+998	74	Port Input	1	1888815	18352	1
+998	74	Response	3	1888815	18352	1
+998	75	Picture	ITI	1898851	0	1	24658	1	0	next	other	0
+998	76	Sound	Practice	1913343	0	1			0		other	0
+998	76	Picture	response	1923510	10166	1	5998	1	10000	25000	hit	140
+998	76	Port Input	2	1929326	15983	1
+998	76	Response	4	1929326	15983	1
+998	77	Picture	ITI	1939504	0	1	25991	1	0	next	other	0
+998	78	Sound	Practice	1955315	0	1			0		other	0
+998	78	Picture	response	1965495	10180	1	5498	1	10000	25000	hit	145
+998	78	Port Input	2	1970900	15584	1
+998	78	Response	4	1970900	15584	1
+998	79	Picture	ITI	1980990	0	1	22826	1	0	next	other	0
+998	80	Sound	Practice	1993691	0	1			0		other	0
+998	80	Picture	response	2003815	10124	1	8830	1	10000	25000	hit	150
+998	80	Port Input	2	2012536	18845	1
+998	80	Response	4	2012536	18845	1
+998	81	Picture	ITI	2022642	0	1	23992	1	0	next	other	0
+998	82	Sound	Practice	2036584	0	1			0		other	0
+998	82	Picture	response	2046634	10050	1	5665	1	10000	25000	hit	155
+998	82	Port Input	2	2052246	15662	1
+998	82	Response	4	2052246	15662	1
+998	83	Picture	ITI	2062295	0	1	28990	1	0	next	other	0
+998	84	Sound	Practice	2081137	0	1			0		other	0
+998	84	Picture	response	2091286	10149	1	7331	1	10000	25000	hit	160
+998	84	Port Input	2	2098494	17358	1
+998	84	Response	4	2098494	17358	1
+998	85	Picture	ITI	2108613	0	1	20326	1	0	next	other	0
+998	86	Sound	Practice	2118844	0	1			0		other	0
+998	86	Picture	response	2128939	10095	1	6498	1	10000	25000	hit	165
+998	86	Port Input	2	2135258	16413	1
+998	86	Response	4	2135258	16413	1
+998	87	Picture	Break	2145434	0	1	88636	1	0	next	other	0
+998	87	Response	1	2233964	88531	0
+998	88	Picture	Instruction	2234070	0	1	30490	1	0	next	other	0
+998	88	Response	1	2264443	30373	0
+998	89	Picture	ITI	2264560	0	1	15162	1	0	next	other	0
+998	90	Picture	ITI	2279721	0	1	25491	1	0	next	other	0
+998	91	Sound	test	2293603	0	1			0		other	0
+998	91	Picture	response	2305212	11610	1	8164	1	11450	25000	incorrect	175
+998	91	Port Input	2	2313213	19611	1
+998	91	Response	4	2313213	19611	1
+998	92	Picture	ITI	2314209	0	1	30989	1	0	next	other	0
+998	93	Sound	test	2333621	0	1			0		other	0
+998	93	Picture	response	2345199	11578	1	6498	1	11450	25000	incorrect	180
+998	93	Port Input	1	2351518	17897	1
+998	93	Response	3	2351518	17897	1
+998	94	Picture	ITI	2352530	0	1	28823	1	0	next	other	0
+998	95	Sound	test	2368941	0	1			0		other	0
+998	95	Picture	response	2381353	12412	1	1999	1	12250	25000	incorrect	185
+998	95	Port Input	1	2383221	14280	1
+998	95	Response	3	2383221	14280	1
+998	96	Picture	ITI	2384352	0	1	25991	1	0	next	other	0
+998	97	Sound	test	2400173	0	1			0		other	0
+998	97	Picture	response	2410343	10170	1	2999	1	10000	25000	incorrect	190
+998	97	Port Input	1	2413175	13002	1
+998	97	Response	3	2413175	13002	1
+998	98	Picture	ITI	2414175	0	1	29823	1	0	next	other	0
+998	99	Sound	test	2428897	0	1			0		other	0
+998	99	Port Input	1	2439923	11026	1
+998	99	Picture	response	2443998	15102	1	3166	1	15000	25000	incorrect	196
+998	99	Port Input	1	2447076	18179	1
+998	99	Response	3	2447076	18179	1
+998	100	Picture	ITI	2448164	0	1	29490	1	0	next	other	0
+998	101	Sound	test	2463525	0	1			0		other	0
+998	101	Picture	response	2477654	14129	1	3999	1	14020	25000	incorrect	201
+998	101	Port Input	1	2481601	18076	1
+998	101	Response	3	2481601	18076	1
+998	102	Picture	ITI	2482652	0	1	24825	1	0	next	other	0
+998	103	Sound	test	2494343	0	1			0		other	0
+998	103	Picture	response	2507477	13134	1	3665	1	13100	25000	incorrect	206
+998	103	Port Input	1	2511076	16733	1
+998	103	Response	3	2511076	16733	1
+998	104	Picture	ITI	2512142	0	1	30323	1	0	next	other	0
+998	105	Sound	test	2527283	0	1			0		other	0
+998	105	Picture	response	2542465	15182	1	8484	1	15000	25000	miss	0
+998	105	Quit		2545320	18037	NA
+
+
+{
+   "app": "Presentation Version 20.2 Build 07.25.18",
+   "device": "LENOVO 10A8S1PC00",
+   "experiment": "{772213B2-5F0F-4A35-9C2F-36954700C7EA}",
+   "os": "Windows 7 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "Timing Task with Dynanometer.sce",
+   "subject": "998",
+   "timestamp": "2019/03/07 00:50:14 GMT"
+}

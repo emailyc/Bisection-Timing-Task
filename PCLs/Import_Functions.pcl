@@ -1,0 +1,155 @@
+# ------------------------------- PCL Part ------------------------------
+
+#  Functions 
+
+sub int read_response( input_port port )
+begin
+	if port.total_count() > 0 then
+		int resp = in_port.codes(1);
+		return resp;
+	end;
+	return 0;
+end;	
+
+sub
+	print_to_txt(string block, string trial_number, string dyno_response, string filename)
+begin
+	string details = 
+						logfile.subject()			+ "," +
+						block							+ "," +
+						trial_number				+ "," +
+						dyno_response				+ "," + 	
+						filename						+ "\n" ;
+	
+	outputFile.print( details );
+end;	
+
+sub 
+	play_sound_trial( int sound_idx, string block, int trial_number)
+begin
+
+	sound_event.set_stimulus( stimuli[sound_idx] ); 				#Select corrosponding stimuli duration
+	sound_event.set_port_code( stimuli_port_codes[sound_idx] );#Select corrosponding stimuli port code
+																					#Port_code 32 corrosponding to trial::Response_period in Arduino Mega.
+																					#stimuli::_1000 corrpsponds to integer 4 in Arduino.
+																					#E.g. stimuli_port_codes[1] == 36. i.e. turning PINA1 and PINC0 to HIGH on Arduino.
+	sound_event.set_code_width( int( stimuli_durations[sound_idx] ) ) ;
+	in_port.clear();															#Since we only want the response after the stimuli has finished playing, we clear the port history up until this point.
+	sound_trial.present();
+	wait_interval( TWO_SEC );												#Give participant 2 seconds to respond after stimuli ended
+	out_port.send_code( RESET_OUTPUT_PORT ); 							#reset voltage of output pins to 0. This corrosponds to "No Signal" on Arduino output.
+	anchor_text.unload();
+	
+	stimulus_data last = stimulus_manager.last_stimulus_data();
+	
+	print_to_txt(	block,
+						string(trial_number),
+						string(read_response( in_port )),
+						string( stimuli_durations[ sound_idx ] )
+					);
+end;
+
+sub
+	play_feedback_trial
+begin
+	fb_text.load();
+	fb_trial.present();
+	fb_text.unload();
+	print_to_txt(	"study",
+						"study",
+						"NA",
+						"NA"
+					);
+end;
+
+sub
+   play_practice_trial( int sound_idx, int answer )
+begin
+	practice_sound_event.set_stimulus( stimuli[sound_idx] );
+	practice_sound_event.set_port_code ( stimuli_port_codes[sound_idx] );
+	practice_response_event.set_target_button( answer );
+	practice_response_event.set_delta_time( int( stimuli_durations[sound_idx] ) );
+	practice_trial.present();
+	stimulus_data last = stimulus_manager.last_stimulus_data();
+	
+	print_to_txt(	"NA",
+						"Practice",
+						string( last.button() ),
+						"NA"
+					);
+end;
+
+sub
+   play_test_trial( int sound_idx )
+begin
+	test_sound_event.set_stimulus( stimuli[sound_idx] );
+	test_sound_event.set_port_code ( stimuli_port_codes[sound_idx] );	
+	test_response_event.set_delta_time( int( stimuli_durations[sound_idx] ) );
+	
+	test_trial.present();
+	out_port.send_code( RESET_OUTPUT_PORT );
+	stimulus_data last = stimulus_manager.last_stimulus_data();
+	
+	print_to_txt(	"NA",
+						"test",
+						string( last.button() ),
+						"NA"
+					);
+end;
+
+sub
+   play_end_block_trial( string caption )
+begin
+	end_block_text.set_caption( caption );
+	end_block_text.load();
+	end_block_trial.present();	
+	out_port.send_code( RESET_OUTPUT_PORT );
+	stimulus_data last = stimulus_manager.last_stimulus_data();
+	print_to_txt(	"NA",
+						"End of Block",
+						"NA",
+						"NA"
+					);
+end;
+
+
+sub
+   play_ITI_trial( int time )
+begin
+	ITI_trial.set_duration( time );	
+	ITI_trial.present();
+	out_port.send_code( RESET_OUTPUT_PORT ); #reset voltage of both AI1 and AI2 on LabView programme to 0. This indicates the end of the current trial on LabView output.
+	print_to_txt(	"NA",
+						"ITI",
+						"NA",
+						string(time)
+					);end;
+
+sub
+    play_break_trial
+begin
+	#break_caption_2.load();
+	break_trial.present();
+	out_port.send_code( RESET_OUTPUT_PORT );
+	
+	#caption_2.unload();
+	
+	stimulus_data last = stimulus_manager.last_stimulus_data();
+	
+	print_to_txt(	"NA",
+						"Break",
+						"NA",
+						"NA"
+					);
+end;
+
+sub 
+	play_instruct_trial( string instruction_text )
+begin
+	instruct_text.set_caption( instruction_text ); 
+	instruct_text.load();
+	instruct_trial.present(); 
+	out_port.send_code( RESET_OUTPUT_PORT ); #reset voltage of both AI1 and AI2 on LabView programme to 0. This indicates the end of the current trial on LabView output.
+	instruct_text.unload();
+end;	
+

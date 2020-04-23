@@ -1,0 +1,582 @@
+Scenario - Timing Task
+Logfile written - 02/25/2019 17:43:19
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	1	Picture	Instruction	500	0	1	11961342	1	0	next	other	0
+1	1	Response	3	419485	418985	1
+1	1	Response	4	419485	418985	1
+1	1	Response	4	420797	420297	1
+1	1	Response	4	422046	421547	1
+1	1	Response	4	423296	422797	1
+1	1	Response	4	434715	434215	1
+1	1	Response	3	611088	610588	1
+1	1	Response	4	611088	610588	1
+1	1	Response	4	612400	611900	1
+1	1	Response	4	613649	613150	1
+1	1	Response	4	614899	614400	1
+1	1	Response	4	626319	625819	1
+1	1	Response	3	964841	964341	1
+1	1	Response	4	964841	964341	1
+1	1	Response	4	966152	965653	1
+1	1	Response	4	967402	966903	1
+1	1	Response	4	968652	968152	1
+1	1	Response	4	980072	979573	1
+1	1	Response	3	1144401	1143901	1
+1	1	Response	4	1144401	1143901	1
+1	1	Response	4	1145712	1145213	1
+1	1	Response	4	1146962	1146463	1
+1	1	Response	4	1148212	1147713	1
+1	1	Response	4	1159633	1159133	1
+1	1	Response	3	1432973	1432474	1
+1	1	Response	4	1432973	1432474	1
+1	1	Response	4	1434285	1433785	1
+1	1	Response	4	1435535	1435035	1
+1	1	Response	4	1436785	1436285	1
+1	1	Response	4	1448206	1447706	1
+1	1	Response	3	1850720	1850220	1
+1	1	Response	4	1850720	1850220	1
+1	1	Response	4	1852031	1851532	1
+1	1	Response	4	1853281	1852782	1
+1	1	Response	4	1854531	1854032	1
+1	1	Response	4	1865952	1865453	1
+1	1	Response	3	2835471	2834972	1
+1	1	Response	4	2835471	2834972	1
+1	1	Response	4	2836783	2836283	1
+1	1	Response	4	2838033	2837533	1
+1	1	Response	4	2839283	2838783	1
+1	1	Response	4	2850705	2850205	1
+1	1	Response	3	3386307	3385807	1
+1	1	Response	4	3386307	3385807	1
+1	1	Response	4	3387619	3387119	1
+1	1	Response	4	3388868	3388369	1
+1	1	Response	4	3390118	3389619	1
+1	1	Response	4	3401541	3401041	1
+1	1	Response	3	3523650	3523150	1
+1	1	Response	4	3523650	3523150	1
+1	1	Response	4	3524961	3524462	1
+1	1	Response	4	3526211	3525712	1
+1	1	Response	4	3527461	3526962	1
+1	1	Response	4	3538884	3538384	1
+1	1	Response	3	4019579	4019079	1
+1	1	Response	4	4019579	4019079	1
+1	1	Response	4	4020890	4020391	1
+1	1	Response	4	4022140	4021641	1
+1	1	Response	4	4023390	4022891	1
+1	1	Response	4	4034814	4034314	1
+1	1	Response	3	4656496	4655996	1
+1	1	Response	4	4656496	4655996	1
+1	1	Response	3	4693350	4692850	1
+1	1	Response	4	4693350	4692850	1
+1	1	Response	4	4694662	4694162	1
+1	1	Response	4	4695912	4695412	1
+1	1	Response	4	4697161	4696662	1
+1	1	Response	4	4708587	4708087	1
+1	1	Response	3	4714930	4714430	1
+1	1	Response	4	4714930	4714430	1
+1	1	Response	4	4717651	4717151	1
+1	1	Response	4	4718901	4718401	1
+1	1	Response	4	4720150	4719651	1
+1	1	Response	4	4731576	4731076	1
+1	1	Response	3	4766843	4766343	1
+1	1	Response	4	4766843	4766343	1
+1	1	Response	4	4768155	4767655	1
+1	1	Response	4	4769405	4768905	1
+1	1	Response	4	4770655	4770155	1
+1	1	Response	4	4782080	4781580	1
+1	1	Response	3	5078882	5078383	1
+1	1	Response	4	5078882	5078383	1
+1	1	Response	4	5080194	5079695	1
+1	1	Response	4	5081444	5080945	1
+1	1	Response	4	5082694	5082194	1
+1	1	Response	4	5094121	5093622	1
+1	1	Response	3	5320017	5319517	1
+1	1	Response	4	5320017	5319517	1
+1	1	Response	4	5321329	5320829	1
+1	1	Response	4	5322579	5322079	1
+1	1	Response	4	5323829	5323329	1
+1	1	Response	4	5335256	5334756	1
+1	1	Response	3	5444470	5443971	1
+1	1	Response	4	5444470	5443971	1
+1	1	Response	4	5445783	5445283	1
+1	1	Response	4	5447032	5446533	1
+1	1	Response	4	5448282	5447783	1
+1	1	Response	4	5459710	5459210	1
+1	1	Response	3	5886225	5885725	1
+1	1	Response	4	5886225	5885725	1
+1	1	Response	4	5887537	5887038	1
+1	1	Response	4	5888787	5888287	1
+1	1	Response	4	5890037	5889537	1
+1	1	Response	4	5901466	5900966	1
+1	1	Response	3	6879849	6879350	1
+1	1	Response	4	6879849	6879350	1
+1	1	Response	4	6881162	6880662	1
+1	1	Response	4	6882412	6881912	1
+1	1	Response	4	6883661	6883162	1
+1	1	Response	4	6895091	6894591	1
+1	1	Response	3	6932431	6931931	1
+1	1	Response	4	6932431	6931931	1
+1	1	Response	4	6935129	6934630	1
+1	1	Response	4	6936379	6935880	1
+1	1	Response	4	6937629	6937130	1
+1	1	Response	4	6949058	6948559	1
+1	1	Response	3	7042787	7042287	1
+1	1	Response	4	7042787	7042287	1
+1	1	Response	4	7044099	7043600	1
+1	1	Response	4	7045349	7044850	1
+1	1	Response	4	7046599	7046099	1
+1	1	Response	4	7058028	7057528	1
+1	1	Response	3	7542382	7541883	1
+1	1	Response	4	7542382	7541883	1
+1	1	Response	4	7543695	7543195	1
+1	1	Response	4	7544945	7544445	1
+1	1	Response	4	7546194	7545695	1
+1	1	Response	4	7557624	7557124	1
+1	1	Response	3	7613968	7613469	1
+1	1	Response	4	7613968	7613469	1
+1	1	Response	4	7615280	7614781	1
+1	1	Response	4	7616530	7616031	1
+1	1	Response	4	7617780	7617281	1
+1	1	Response	4	7629210	7628711	1
+1	1	Response	3	8358050	8357550	1
+1	1	Response	4	8358050	8357550	1
+1	1	Response	4	8359362	8358863	1
+1	1	Response	4	8360612	8360113	1
+1	1	Response	4	8361862	8361362	1
+1	1	Response	4	8373293	8372793	1
+1	1	Response	3	8529671	8529171	1
+1	1	Response	4	8529671	8529171	1
+1	1	Response	4	8530983	8530483	1
+1	1	Response	4	8532233	8531733	1
+1	1	Response	4	8533483	8532983	1
+1	1	Response	4	8544913	8544413	1
+1	1	Response	3	9493533	9493034	1
+1	1	Response	4	9493533	9493034	1
+1	1	Response	4	9494846	9494346	1
+1	1	Response	4	9496096	9495596	1
+1	1	Response	4	9497346	9496846	1
+1	1	Response	4	9508776	9508277	1
+1	1	Response	3	9760015	9759515	1
+1	1	Response	4	9760015	9759515	1
+1	1	Response	4	9761327	9760827	1
+1	1	Response	4	9762577	9762077	1
+1	1	Response	4	9763827	9763327	1
+1	1	Response	4	9775257	9774758	1
+1	1	Response	3	10302534	10302034	1
+1	1	Response	4	10302534	10302034	1
+1	1	Response	4	10303846	10303346	1
+1	1	Response	4	10305096	10304596	1
+1	1	Response	4	10306346	10305846	1
+1	1	Response	4	10317777	10317277	1
+1	1	Response	3	11473360	11472861	1
+1	1	Response	4	11473360	11472861	1
+1	1	Response	4	11474673	11474173	1
+1	1	Response	4	11475923	11475423	1
+1	1	Response	4	11477172	11476673	1
+1	1	Response	4	11488603	11488104	1
+1	1	Response	3	11727282	11726783	1
+1	1	Response	4	11727282	11726783	1
+1	1	Response	4	11728595	11728095	1
+1	1	Response	4	11729844	11729345	1
+1	1	Response	4	11731094	11730595	1
+1	1	Response	4	11742525	11742026	1
+1	1	Response	3	11828121	11827621	1
+1	1	Response	4	11828121	11827621	1
+1	1	Response	4	11830387	11829887	1
+1	1	Response	4	11831637	11831137	1
+1	1	Response	4	11832887	11832387	1
+1	1	Response	4	11844317	11843817	1
+1	1	Response	3	11921574	11921074	1
+1	1	Response	4	11924820	11924321	1
+1	1	Response	3	11929648	11929149	1
+1	1	Response	1	11961772	11961272	0
+1	2	Picture	ITI	11961841	0	1	11496	1	0	next	other	0
+1	3	Sound	Stimuli	11972455	0	743			0		other	0
+1	4	Picture	Feedback	12003160	0	1	20160	1	0	next	other	0
+1	5	Picture	ITI	12023320	0	1	10163	1	0	next	other	0
+1	6	Sound	Stimuli	12033321	0	1			0		other	0
+1	7	Picture	Feedback	12068304	0	1	20160	1	0	next	other	0
+1	8	Picture	ITI	12088464	0	1	10163	1	0	next	other	0
+1	9	Sound	Stimuli	12098465	0	1			0		other	0
+1	10	Picture	Feedback	12128617	0	1	20160	1	0	next	other	0
+1	11	Picture	ITI	12148776	0	1	10163	1	0	next	other	0
+1	12	Sound	Stimuli	12158778	0	1			0		other	0
+1	13	Picture	Feedback	12193927	0	1	20160	1	0	next	other	0
+1	14	Picture	ITI	12214087	0	1	10163	1	0	next	other	0
+1	15	Sound	Stimuli	12224088	0	1			0		other	0
+1	16	Picture	Feedback	12254240	0	1	20160	1	0	next	other	0
+1	17	Picture	ITI	12274399	0	1	10163	1	0	next	other	0
+1	18	Sound	Stimuli	12284401	0	1			0		other	0
+1	19	Picture	Feedback	12319384	0	1	20160	1	0	next	other	0
+1	20	Picture	ITI	12339543	0	1	10163	1	0	next	other	0
+1	21	Sound	Stimuli	12349545	0	1			0		other	0
+1	22	Picture	Feedback	12379696	0	1	20160	1	0	next	other	0
+1	22	Response	4	12380340	644	1
+1	22	Response	4	12391771	12075	1
+1	23	Picture	ITI	12399856	0	1	10163	1	0	next	other	0
+1	24	Sound	Stimuli	12409857	0	1			0		other	0
+1	25	Picture	Feedback	12445007	0	1	20160	1	0	next	other	0
+1	26	Picture	ITI	12465166	0	1	10163	1	0	next	other	0
+1	27	Sound	Stimuli	12475168	0	1			0		other	0
+1	28	Picture	Feedback	12505319	0	1	20160	1	0	next	other	0
+1	29	Picture	ITI	12525479	0	1	10163	1	0	next	other	0
+1	30	Sound	Stimuli	12535480	0	1			0		other	0
+1	31	Picture	Feedback	12570630	0	1	20326	1	0	next	other	0
+1	32	Picture	End_Block	12590956	0	1	258743	1	0	next	other	0
+1	32	Response	3	12811290	220334	1
+1	32	Response	4	12811290	220334	1
+1	32	Response	4	12812602	221646	1
+1	32	Response	4	12813852	222896	1
+1	32	Response	4	12815102	224146	1
+1	32	Response	4	12826532	235576	1
+1	32	Response	1	12849595	258639	0
+1	33	Picture	ITI	12849699	0	1	10163	1	0	next	other	0
+1	34	Picture	Break	12859863	0	1	24825	1	0	next	other	0
+1	34	Response	1	12884634	24772	0
+1	35	Picture	ITI	12884687	0	1	10163	1	0	next	other	0
+1	36	Picture	Instruction	12894850	0	1	82471	1	0	next	other	0
+1	36	Response	1	12977272	82422	0
+1	37	Picture	ITI	12977322	0	1	36987	1	0	next	other	0
+1	38	Sound	Practice	12991493	0	1			0		hit	236
+1	38	Response	4	13014219	22726	1
+1	39	Picture	ITI	13024305	0	1	37154	1	0	next	other	0
+1	40	Sound	Practice	13041517	0	1			0		hit	239
+1	40	Response	4	13061285	19768	1
+1	41	Picture	ITI	13071456	0	1	29990	1	0	next	other	0
+1	42	Sound	Practice	13081457	0	1			0		hit	242
+1	42	Response	3	13101365	19907	1
+1	43	Picture	ITI	13111442	0	1	31322	1	0	next	other	0
+1	44	Sound	Practice	13124463	0	1			0		hit	245
+1	44	Response	4	13142631	18167	1
+1	45	Picture	ITI	13152761	0	1	26991	1	0	next	other	0
+1	46	Sound	Practice	13164222	0	1			0		hit	248
+1	46	Response	3	13179569	15346	1
+1	47	Picture	ITI	13189748	0	1	26324	1	0	next	other	0
+1	48	Sound	Practice	13200669	0	1			0		hit	251
+1	48	Response	3	13215996	15327	1
+1	49	Picture	ITI	13226069	0	1	27157	1	0	next	other	0
+1	50	Sound	Practice	13237930	0	1			0		hit	254
+1	50	Response	3	13253090	15160	1
+1	51	Picture	ITI	13263222	0	1	32489	1	0	next	other	0
+1	52	Sound	Practice	13276674	0	1			0		hit	257
+1	52	Response	4	13295542	18868	1
+1	53	Picture	ITI	13305708	0	1	33155	1	0	next	other	0
+1	54	Sound	Practice	13319679	0	1			0		hit	260
+1	54	Response	4	13338817	19138	1
+1	55	Picture	ITI	13348859	0	1	37320	1	0	next	other	0
+1	56	Sound	Practice	13364251	0	1			0		hit	263
+1	56	Response	4	13386128	21877	1
+1	57	Picture	ITI	13396176	0	1	41152	1	0	next	other	0
+1	58	Sound	Practice	13410368	0	1			0		incorrect	266
+1	58	Response	4	13437185	26818	1
+1	59	Picture	ITI	13447325	0	1	32155	1	0	next	other	0
+1	60	Sound	Practice	13464177	0	1			0		hit	269
+1	60	Response	4	13479381	15204	1
+1	61	Picture	ITI	13489477	0	1	41486	1	0	next	other	0
+1	61	Response	4	13493309	3832	1
+1	62	Sound	Practice	13501519	0	1			0		hit	273
+1	62	Response	3	13530818	29299	1
+1	63	Picture	ITI	13540959	0	1	36154	1	0	next	other	0
+1	64	Sound	Practice	13559741	0	1			0		hit	276
+1	64	Response	3	13576975	17234	1
+1	65	Picture	ITI	13587110	0	1	31323	1	0	next	other	0
+1	66	Sound	Practice	13597381	0	1			0		hit	279
+1	66	Response	4	13618272	20891	1
+1	67	Picture	ITI	13628429	0	1	36821	1	0	next	other	0
+1	68	Sound	Practice	13645140	0	1			0		hit	282
+1	68	Response	4	13665198	20058	1
+1	69	Picture	ITI	13675246	0	1	33822	1	0	next	other	0
+1	70	Sound	Practice	13689417	0	1			0		incorrect	285
+1	70	Response	4	13709034	19617	1
+1	71	Picture	ITI	13719064	0	1	33822	1	0	next	other	0
+1	72	Sound	Practice	13734656	0	2			0		hit	288
+1	72	Response	3	13752756	18101	1
+1	73	Picture	ITI	13762882	0	1	27324	1	0	next	other	0
+1	74	Sound	Practice	13774284	0	1			0		hit	291
+1	74	Response	4	13790146	15862	1
+1	75	Picture	ITI	13800202	0	1	37154	1	0	next	other	0
+1	75	Response	4	13804074	3872	1
+1	76	Sound	Practice	13812184	0	1			0		hit	295
+1	76	Response	4	13837317	25134	1
+1	77	Picture	ITI	13847353	0	1	38653	1	0	next	other	0
+1	78	Sound	Practice	13865364	0	1			0		hit	298
+1	78	Response	4	13885971	20607	1
+1	79	Picture	ITI	13896002	0	1	39153	1	0	next	other	0
+1	80	Sound	Practice	13915694	0	1			0		hit	301
+1	80	Response	4	13935103	19409	1
+1	81	Picture	ITI	13945152	0	1	32489	1	0	next	other	0
+1	82	Sound	Practice	13958283	0	1			0		hit	304
+1	82	Response	3	13977504	19220	1
+1	83	Picture	ITI	13987637	0	1	39653	1	0	next	other	0
+1	84	Sound	Practice	14004569	0	1			0		hit	307
+1	84	Response	4	14027167	22598	1
+1	85	Picture	ITI	14037287	0	1	38320	1	0	next	other	0
+1	86	Sound	Practice	14056058	0	1			0		hit	310
+1	86	Response	4	14075414	19356	1
+1	87	Picture	Break	14085603	0	1	106796	1	0	next	other	0
+1	87	Response	1	14192210	106607	0
+1	88	Picture	Instruction	14192399	0	1	56147	1	0	next	other	0
+1	88	Response	1	14248449	56049	0
+1	89	Picture	ITI	14248547	0	1	10163	1	0	next	other	0
+1	90	Picture	ITI	14258710	0	1	13662	1	0	next	other	0
+1	91	Sound	Stimuli	14272251	0	1			0		other	0
+1	92	Picture	ITI	14307359	0	1	13662	1	0	next	other	0
+1	93	Sound	Stimuli	14320851	0	1			0		other	0
+1	94	Picture	ITI	14355843	0	1	17661	1	0	next	other	0
+1	95	Sound	Stimuli	14373474	0	1			0		other	0
+1	96	Picture	ITI	14404159	0	1	12829	1	0	next	other	0
+1	97	Sound	Stimuli	14416860	0	1			0		other	0
+1	98	Picture	ITI	14447644	0	1	13662	1	0	next	other	0
+1	99	Sound	Stimuli	14461205	0	1			0		other	0
+1	100	Picture	ITI	14491962	0	1	18993	1	0	next	other	0
+1	101	Sound	Stimuli	14510923	0	1			0		other	0
+1	102	Picture	ITI	14543277	0	1	17661	1	0	next	other	0
+1	103	Sound	Stimuli	14560809	0	1			0		other	0
+1	104	Picture	ITI	14592427	0	1	14328	1	0	next	other	0
+1	105	Sound	Stimuli	14606708	0	1			0		other	0
+1	106	Picture	ITI	14637578	0	1	18993	1	0	next	other	0
+1	107	Sound	Stimuli	14656399	0	1			0		other	0
+1	108	Picture	ITI	14691393	0	1	19826	1	0	next	other	0
+1	109	Sound	Stimuli	14711044	0	1			0		other	0
+1	110	Picture	ITI	14741042	0	1	10163	1	0	next	other	0
+1	111	Sound	Stimuli	14751153	0	1			0		other	0
+1	112	Picture	ITI	14782694	0	1	16827	1	0	next	other	0
+1	113	Sound	Stimuli	14799335	0	1			0		other	0
+1	114	Picture	ITI	14833510	0	1	15161	1	0	next	other	0
+1	115	Sound	Stimuli	14848492	0	1			0		other	0
+1	116	Picture	ITI	14881660	0	1	16328	1	0	next	other	0
+1	117	Sound	Stimuli	14897881	0	1			0		other	0
+1	118	Picture	ITI	14927977	0	1	10830	1	0	next	other	0
+1	119	Sound	Stimuli	14938708	0	1			0		other	0
+1	120	Picture	ITI	14973794	0	1	11329	1	0	next	other	0
+1	121	Sound	Stimuli	14984936	0	1			0		other	0
+1	122	Picture	ITI	15018112	0	1	17994	1	0	next	other	0
+1	123	Sound	Stimuli	15035984	0	1			0		other	0
+1	124	Picture	ITI	15070094	0	1	19660	1	0	next	other	0
+1	125	Sound	Stimuli	15089595	0	1			0		other	0
+1	126	Picture	ITI	15121910	0	1	10830	1	0	next	other	0
+1	127	Sound	Stimuli	15132551	0	1			0		other	0
+1	128	Picture	ITI	15162562	0	1	14662	1	0	next	other	0
+1	129	Sound	Stimuli	15177063	0	1			0		other	0
+1	130	Picture	ITI	15210212	0	1	13662	1	0	next	other	0
+1	131	Sound	Stimuli	15223764	0	1			0		other	0
+1	132	Picture	ITI	15256863	0	1	15828	1	0	next	other	0
+1	133	Sound	Stimuli	15272644	0	1			0		other	0
+1	134	Picture	ITI	15305013	0	1	19493	1	0	next	other	0
+1	135	Sound	Stimuli	15324434	0	1			0		other	0
+1	136	Picture	ITI	15355995	0	1	14162	1	0	next	other	0
+1	137	Sound	Stimuli	15370076	0	1			0		other	0
+1	138	Picture	ITI	15400813	0	1	13829	1	0	next	other	0
+1	138	Response	4	15410814	10002	1
+1	139	Sound	Stimuli	15414614	0	1			0		other	0
+1	140	Picture	ITI	15449629	0	1	12496	1	0	next	other	0
+1	141	Sound	Stimuli	15462000	0	1			0		other	0
+1	142	Picture	ITI	15496279	0	1	17661	1	0	next	other	0
+1	143	Sound	Stimuli	15513911	0	1			0		other	0
+1	144	Picture	ITI	15545429	0	1	19160	1	0	next	other	0
+1	145	Sound	Stimuli	15564471	0	1			0		other	0
+1	146	Picture	ITI	15596745	0	1	17827	1	0	next	other	0
+1	147	Sound	Stimuli	15614466	0	1			0		other	0
+1	148	Picture	ITI	15644561	0	1	15828	1	0	next	other	0
+1	148	Response	4	15645576	1015	1
+1	149	Sound	Stimuli	15660302	0	1			0		other	0
+1	150	Picture	ITI	15690379	0	1	13162	1	0	next	other	0
+1	151	Sound	Stimuli	15703390	0	1			0		other	0
+1	152	Picture	ITI	15738528	0	1	10163	1	0	next	other	0
+1	153	Sound	Stimuli	15748550	0	1			0		other	0
+1	154	Picture	ITI	15778515	0	1	17827	1	0	next	other	0
+1	155	Sound	Stimuli	15796246	0	1			0		other	0
+1	156	Picture	ITI	15826331	0	1	16328	1	0	next	other	0
+1	157	Sound	Stimuli	15842503	0	1			0		other	0
+1	158	Picture	ITI	15875648	0	1	11663	1	0	next	other	0
+1	159	Sound	Stimuli	15887179	0	1			0		other	0
+1	160	Picture	ITI	15918633	0	1	13329	1	0	next	other	0
+1	161	Sound	Stimuli	15931894	0	1			0		other	0
+1	162	Picture	ITI	15966116	0	1	15828	1	0	next	other	0
+1	163	Sound	Stimuli	15981907	0	1			0		other	0
+1	164	Picture	ITI	16016932	0	1	15328	1	0	next	other	0
+1	165	Sound	Stimuli	16032203	0	1			0		other	0
+1	166	Picture	ITI	16065415	0	1	10163	1	0	next	other	0
+1	167	Sound	Stimuli	16075506	0	1			0		other	0
+1	168	Picture	ITI	16108733	0	1	18993	1	0	next	other	0
+1	169	Sound	Stimuli	16127594	0	2			0		other	0
+1	170	Picture	ITI	16160049	0	1	17161	1	0	next	other	0
+1	170	Response	3	16172390	12341	1
+1	171	Sound	Stimuli	16177140	0	1			0		other	0
+1	172	Picture	ITI	16211364	0	1	13662	1	0	next	other	0
+1	173	Sound	Stimuli	16224935	0	1			0		other	0
+1	174	Picture	ITI	16255016	0	1	14828	1	0	next	other	0
+1	175	Sound	Stimuli	16269727	0	1			0		other	0
+1	176	Picture	ITI	16304832	0	1	19160	1	0	next	other	0
+1	177	Sound	Stimuli	16323923	0	1			0		other	0
+1	178	Picture	ITI	16354648	0	1	17827	1	0	next	other	0
+1	179	Sound	Stimuli	16372299	0	1			0		other	0
+1	180	Picture	ITI	16406463	0	1	16328	1	0	next	other	0
+1	180	Response	4	16418873	12410	1
+1	181	Sound	Stimuli	16422694	0	1			0		other	0
+1	182	Picture	ITI	16455113	0	1	14828	1	0	next	other	0
+1	183	Sound	Stimuli	16469784	0	1			0		other	0
+1	184	Picture	ITI	16503929	0	1	10330	1	0	next	other	0
+1	185	Sound	Stimuli	16514080	0	1			0		other	0
+1	186	Picture	ITI	16544915	0	1	12829	1	0	next	other	0
+1	187	Sound	Stimuli	16557606	0	1			0		other	0
+1	188	Picture	ITI	16589233	0	1	19327	1	0	next	other	0
+1	189	Sound	Stimuli	16608534	0	1			0		other	0
+1	190	Picture	ITI	16638549	0	1	18494	1	0	next	other	0
+1	191	Sound	Stimuli	16656870	0	1			0		other	0
+1	192	Picture	ITI	16690031	0	1	16994	1	0	next	other	0
+1	193	Sound	Stimuli	16706942	0	1			0		other	0
+1	194	Picture	ITI	16740014	0	1	15661	1	0	next	other	0
+1	195	Sound	Stimuli	16755525	0	1			0		other	0
+1	196	Picture	ITI	16787830	0	1	20160	1	0	next	other	0
+1	197	Sound	Stimuli	16807812	0	1			0		other	0
+1	198	Picture	ITI	16842811	0	1	10830	1	0	next	other	0
+1	199	Sound	Stimuli	16853513	0	1			0		other	0
+1	200	Picture	ITI	16887629	0	1	11829	1	0	next	other	0
+1	201	Sound	Stimuli	16899350	0	1			0		other	0
+1	202	Picture	ITI	16932447	0	1	14828	1	0	next	other	0
+1	203	Sound	Stimuli	16947168	0	1			0		other	0
+1	204	Picture	ITI	16981430	0	1	11496	1	0	next	other	0
+1	205	Sound	Stimuli	16992801	0	1			0		other	0
+1	206	Picture	ITI	17026914	0	1	17494	1	0	next	other	0
+1	207	Sound	Stimuli	17044345	0	1			0		other	0
+1	208	Picture	ITI	17076730	0	1	19493	1	0	next	other	0
+1	209	Sound	Stimuli	17096061	0	1			0		other	0
+1	210	Picture	ITI	17126213	0	1	11996	1	0	next	other	0
+1	211	Sound	Stimuli	17138134	0	1			0		other	0
+1	212	Picture	ITI	17169698	0	1	17161	1	0	next	other	0
+1	213	Sound	Stimuli	17186669	0	1			0		other	0
+1	214	Picture	ITI	17219847	0	1	14828	1	0	next	other	0
+1	215	Sound	Stimuli	17234488	0	1			0		other	0
+1	216	Picture	ITI	17264498	0	1	10830	1	0	next	other	0
+1	217	Sound	Stimuli	17275159	0	1			0		other	0
+1	218	Picture	ITI	17308316	0	1	12329	1	0	next	other	0
+1	219	Sound	Stimuli	17320617	0	1			0		other	0
+1	220	Picture	ITI	17353800	0	1	17661	1	0	next	other	0
+1	221	Sound	Stimuli	17371362	0	1			0		other	0
+1	222	Picture	ITI	17406449	0	1	15161	1	0	next	other	0
+1	223	Sound	Stimuli	17421530	0	1			0		other	0
+1	224	Picture	ITI	17455598	0	1	17661	1	0	next	other	0
+1	225	Sound	Stimuli	17473140	0	1			0		other	0
+1	226	Picture	ITI	17503082	0	1	12162	1	0	next	other	0
+1	226	Response	3	17503329	247	1
+1	227	Sound	Stimuli	17515163	0	1			0		other	0
+1	228	Picture	ITI	17550232	0	1	19327	1	0	next	other	0
+1	229	Sound	Stimuli	17569463	0	1			0		other	0
+1	230	Picture	ITI	17603713	0	1	10663	1	0	next	other	0
+1	231	Sound	Stimuli	17614205	0	1			0		other	0
+1	232	Picture	ITI	17646532	0	1	17161	1	0	next	other	0
+1	233	Sound	Stimuli	17663653	0	1			0		other	0
+1	234	Picture	ITI	17696015	0	1	15328	1	0	next	other	0
+1	235	Sound	Stimuli	17711206	0	1			0		other	0
+1	236	Picture	ITI	17741332	0	1	11329	1	0	next	other	0
+1	237	Sound	Stimuli	17752574	0	1			0		other	0
+1	238	Picture	ITI	17784151	0	1	11829	1	0	next	other	0
+1	239	Sound	Stimuli	17795872	0	1			0		other	0
+1	240	Picture	ITI	17826636	0	1	10330	1	0	next	other	0
+1	241	Sound	Stimuli	17836827	0	1			0		other	0
+1	242	Picture	ITI	17869121	0	1	13995	1	0	next	other	0
+1	243	Sound	Stimuli	17883082	0	1			0		other	0
+1	244	Picture	ITI	17917271	0	1	10330	1	0	next	other	0
+1	245	Sound	Stimuli	17927532	0	1			0		other	0
+1	246	Picture	ITI	17962589	0	1	11163	1	0	next	other	0
+1	247	Sound	Stimuli	17973660	0	1			0		other	0
+1	248	Picture	ITI	18007906	0	1	10330	1	0	next	other	0
+1	249	Sound	Stimuli	18018188	0	1			0		other	0
+1	250	Picture	ITI	18053224	0	1	15161	1	0	next	other	0
+1	251	Sound	Stimuli	18068325	0	1			0		other	0
+1	252	Picture	ITI	18099874	0	1	12496	1	0	next	other	0
+1	253	Sound	Stimuli	18112336	0	1			0		other	0
+1	254	Picture	ITI	18143859	0	1	11163	1	0	next	other	0
+1	255	Sound	Stimuli	18154880	0	1			0		other	0
+1	256	Picture	ITI	18190010	0	1	18660	1	0	next	other	0
+1	257	Sound	Stimuli	18208611	0	1			0		other	0
+1	258	Picture	ITI	18238659	0	1	12996	1	0	next	other	0
+1	259	Sound	Stimuli	18251551	0	1			0		other	0
+1	260	Picture	ITI	18282311	0	1	15495	1	0	next	other	0
+1	261	Sound	Stimuli	18297702	0	1			0		other	0
+1	262	Picture	ITI	18330128	0	1	12496	1	0	next	other	0
+1	263	Sound	Stimuli	18342439	0	1			0		other	0
+1	264	Picture	ITI	18377611	0	1	15661	1	0	next	other	0
+1	265	Sound	Stimuli	18393142	0	1			0		other	0
+1	266	Picture	ITI	18425594	0	1	19826	1	0	next	other	0
+1	267	Sound	Stimuli	18445276	0	1			0		other	0
+1	268	Picture	ITI	18476077	0	1	18494	1	0	next	other	0
+1	269	Sound	Stimuli	18494498	0	1			0		other	0
+1	270	Picture	ITI	18529558	0	1	12829	1	0	next	other	0
+1	271	Sound	Stimuli	18542340	0	1			0		other	0
+1	272	Picture	ITI	18574709	0	1	11329	1	0	next	other	0
+1	273	Sound	Stimuli	18585951	0	1			0		other	0
+1	274	Picture	ITI	18616028	0	1	12496	1	0	next	other	0
+1	275	Sound	Stimuli	18628359	0	1			0		other	0
+1	276	Picture	ITI	18660013	0	1	12829	1	0	next	other	0
+1	277	Sound	Stimuli	18672804	0	1			0		other	0
+1	278	Picture	ITI	18703498	0	1	10996	1	0	next	other	0
+1	279	Sound	Stimuli	18714409	0	1			0		other	0
+1	280	Picture	ITI	18749482	0	1	15994	1	0	next	other	0
+1	281	Sound	Stimuli	18765343	0	1			0		other	0
+1	282	Picture	ITI	18795466	0	1	15828	1	0	next	other	0
+1	283	Sound	Stimuli	18811167	0	1			0		other	0
+1	284	Picture	ITI	18841950	0	1	19826	1	0	next	other	0
+1	285	Sound	Stimuli	18861651	0	1			0		other	0
+1	286	Picture	ITI	18895764	0	1	14328	1	0	next	other	0
+1	287	Sound	Stimuli	18909946	0	1			0		other	0
+1	288	Picture	ITI	18945080	0	1	15661	1	0	next	other	0
+1	288	Response	4	18947405	2325	1
+1	289	Sound	Stimuli	18960692	0	1			0		other	0
+1	290	Picture	ITI	18995730	0	1	13828	1	0	next	other	0
+1	290	Response	3	18995872	142	1
+1	290	Response	4	18995872	142	1
+1	290	Response	4	18997184	1454	1
+1	290	Response	4	18998434	2704	1
+1	290	Response	4	18999683	3954	1
+1	291	Sound	Stimuli	19009411	0	1			0		other	0
+1	292	Picture	ITI	19040881	0	1	10330	1	0	next	other	0
+1	293	Sound	Stimuli	19051062	0	1			0		other	0
+1	294	Picture	ITI	19081866	0	1	18160	1	0	next	other	0
+1	295	Sound	Stimuli	19099998	0	1			0		other	0
+1	296	Picture	ITI	19131516	0	1	18160	1	0	next	other	0
+1	297	Sound	Stimuli	19149527	0	1			0		other	0
+1	298	Picture	ITI	19179666	0	1	12995	1	0	next	other	0
+1	299	Sound	Stimuli	19192567	0	1			0		other	0
+1	300	Picture	ITI	19222651	0	1	12496	1	0	next	other	0
+1	301	Sound	Stimuli	19234982	0	1			0		other	0
+1	302	Picture	ITI	19265802	0	1	17327	1	0	next	other	0
+1	303	Sound	Stimuli	19282984	0	1			0		other	0
+1	304	Picture	ITI	19312953	0	1	18160	1	0	next	other	0
+1	305	Sound	Stimuli	19331024	0	1			0		other	0
+1	306	Picture	ITI	19361103	0	1	16328	1	0	next	other	0
+1	307	Sound	Stimuli	19377234	0	1			0		other	0
+1	308	Picture	ITI	19410419	0	1	13995	1	0	next	other	0
+1	309	Sound	Stimuli	19424300	0	1			0		other	0
+1	310	Picture	ITI	19457402	0	1	14328	1	0	next	other	0
+1	311	Sound	Stimuli	19471674	0	1			0		other	0
+1	312	Picture	ITI	19503220	0	1	18827	1	0	next	other	0
+1	313	Sound	Stimuli	19521861	0	1			0		other	0
+1	314	Picture	ITI	19553369	0	1	17661	1	0	next	other	0
+1	315	Sound	Stimuli	19570890	0	1			0		other	0
+1	316	Picture	ITI	19603185	0	1	17661	1	0	next	other	0
+1	316	Response	3	19620139	16954	1
+1	316	Response	4	19620139	16954	1
+1	317	Sound	Stimuli	19620656	0	1			0		other	0
+1	318	Picture	ITI	19655667	0	1	14328	1	0	next	other	0
+1	319	Sound	Stimuli	19669948	0	1			0		other	0
+1	319	Port Input	2	19690190	20242	1
+1	320	Picture	ITI	19700651	0	1	10163	1	0	next	other	0
+1	321	Picture	Instruction	19710814	0	1	77919	1	0	next	other	0
+1	321	Response	1	19767706	56892	0
+
+
+{
+   "app": "Presentation Version 20.2 Build 07.25.18",
+   "device": "LENOVO 10A8S1PC00",
+   "experiment": "{772213B2-5F0F-4A35-9C2F-36954700C7EA}",
+   "os": "Windows 7 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "BOI Task with Dynanometer.sce",
+   "subject": "1",
+   "timestamp": "2019/02/25 09:10:18 GMT"
+}

@@ -1,0 +1,19 @@
+# ------------------------------- PCL Part ------------------------------
+
+#Get participant number
+
+int SHORT_INPUT_PORT;
+int LONG_INPUT_PORT;
+string Dynanometer_Position;
+int parti_num_int = int( logfile.subject() );
+
+#Determine which port code to represent Short and Long
+if mod( parti_num_int, 2 ) == 1 then #odd	
+	SHORT_INPUT_PORT = 3;
+	LONG_INPUT_PORT = 4;
+	Dynanometer_Position = "Response Prompt Caption LONG RIGHT SHORT LEFT";
+elseif mod( parti_num_int, 2 ) == 0 then #even
+	SHORT_INPUT_PORT = 4;
+	LONG_INPUT_PORT = 3;
+	Dynanometer_Position = "Response Prompt Caption SHORT RIGHT LONG LEFT";
+end;	
